@@ -1,0 +1,39 @@
+all_preds_reg,all_preds_cls,all_labels_cls,all_labels_reg,premise,entailment,reg_error
+4.4441075,0,0,1.1,A cheetah is chasing its prey across a field,A white and brown dog is walking through the water with difficulty,3.3441076
+3.9353874,0,0,1.0,One woman is peeling a potato,A yellow flower is being clung to by a bee,2.9353874
+4.0313573,0,0,1.2,A person is dancing on a roof,A white dog is standing on fallen leaves,2.8313572
+3.9089472,0,0,1.1,Two crocodiles are floating in a green colored swimming pool near some playing kids,Two poodles are in the snow and one is jumping high,2.808947
+3.8033016,0,0,1.0,A horse is standing,Someone is holding a hedgehog,2.8033016
+3.7665353,0,0,1.0,"A woman, who is shoeless, is sitting on a blanket under a lavender umbrella",A small dog is lying on the bed,2.7665353
+3.6660147,0,0,1.0,Two kids are doing martial arts on a blue mat,A tan dog is running through the brush,2.6660147
+4.5182185,1,0,1.9,The man in a cowboy hat is walking through a market and is putting a hand in his pocket,A walker is in a hat store for men,2.6182184
+3.4594395,0,0,1.0,A person is removing chopped vegetables from a pot on the stove,A man is patting an alligator on the mouth,2.4594395
+3.54408,0,0,1.1,"A rock is being climbed by a person with a rope, which is pink",Two people in a race are flipping the tires of a tractor,2.4440799
+3.396627,0,0,1.0,A person is wearing a straw hat and smoking a cigarette,A dog is near the red ball in the air,2.396627
+3.3823535,0,0,1.0,A man is sitting on the lawn and drinking from a water bottle,The women are dancing outside,2.3823535
+3.3714292,0,0,1.0,A person is making a bed,Somebody is cutting a tomato,2.3714292
+3.646244,0,0,1.3,A woman is eating a cupcake,A man is slicing a potato,2.346244
+4.041315,0,0,1.7,A girl is messing up her hair,A girl is filing her nails,2.341315
+3.3215322,0,0,1.0,A large brown dog is jumping over a red hurdle,A young man is running away from the fishing line,2.3215322
+2.1811106,0,1,4.5,Two small boys dressed in tuxedos are sitting on a red carpeted floor,Two little kids are wearing tuxedos,2.3188894
+3.4988124,0,0,1.185,A person is scrubbing a zucchini,The woman is cutting cooked octopus,2.3138125
+3.3057358,0,0,1.0,"The Jockeys are riding horses on the field, which is completely green",The black bird is sitting in a leafless tree,2.3057358
+3.2816978,0,0,1.0,Some runners are competing in a race,A woman is dancing,2.2816978
+3.2788687,0,0,1.0,A young boy with a heart tank top is raising his hands as he is sliding,The man is playing the flute,2.2788687
+3.3704956,0,0,1.1,A fearful little boy is on a climbing wall,The man is sitting next to a birdcage,2.2704954
+3.264132,0,0,1.0,There is no bicyclist jumping on a pyramid-shaped ramp,The tan dog is watching a brown dog that is swimming in a pond,2.264132
+3.2372944,0,0,1.0,A man is kicking a soccer ball,The content of a bowl is being mixed by a man,2.2372944
+3.2274895,0,0,1.0,A person is kicking a soccer ball between their feet,One brown and black dog is running through the leaves,2.2274895
+3.716363,0,0,1.5,A man in a white hat is getting off stage,Four people are performing music outdoors,2.216363
+3.501654,0,0,1.3,Two kids and a man are playing games at an arcade,A family is purchasing something at the vending machine,2.201654
+3.5966625,0,0,1.4,A person is wearing a hat and is sitting on the grass,A man is running in a field,2.1966624
+3.9622908,0,0,1.8,A woman is taking two eggs out of a pot of water,A person is buttering a tray,2.1622908
+3.2576697,0,0,1.1,A man is kicking a ball,A man is mixing the content of a bowl,2.1576695
+3.1525362,0,0,1.0,Chopped vegetables are being dropped into a pot on the stove by a person,A man is patting an alligator on the mouth,2.1525362
+4.2245994,0,0,2.1,A dog which is furry and black is in a back yard and is carrying a basket in its mouth,A dog in a bucket is biting a tree which is probably a pine,2.1245995
+1.3173528,0,0,3.4,A man is catching a fish,A woman is deboning a fish,2.0826473
+3.8294792,0,0,1.75,The windows are being cleaned by a man,The man has a window of time to clean himself,2.0794792
+3.074365,0,0,1.0,A boy is happily playing the piano,A white bird is landing swiftly in the water,2.074365
+3.0665264,0,0,1.0,An alligator is being patted on the mouth by a man,A person is dropping chopped vegetables into a pot on the stove,2.0665264
+3.062836,0,0,1.0,A man is patting an alligator on the mouth,A person is dropping chopped vegetables into a pot on the stove,2.062836
+4.731063,1,0,2.7,A small girl is riding in a toy car,A small toy girl is in a riding car,2.0310628

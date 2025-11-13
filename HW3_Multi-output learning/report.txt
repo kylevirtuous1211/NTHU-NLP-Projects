@@ -1,0 +1,58 @@
+My model name's convention
+lr: learning rate
+wd: weight decay for AdamW
+e: epoch
+b: batch size for train/val/test
+scheduler uses: 
+    num_training_steps = len(dl_train) * epochs
+    num_warmup_steps = int(0.1 * num_training_steps)
+    scheduler = get_linear_schedule_with_warmup(optimizer=optimizer, num_warmup_steps=num_warmup_steps, num_training_steps=num_training_steps)
+rw: regression weight, for penalize regression error. Since the model has harder time doing regression (relatedness score) task
+
+
+## Bert: Grid search (lr=1e-4, 2e-5, 5e-4) wd(0.01, 0.005) b(64, 32, 16), rw(10, 5, 1)
+* best_1111_Siamese_lr=1e-4_wd=0.01_e10_b32_with_scheduler_rw10
+test accuracy: {'accuracy': 0.8284960422163589}
+test pearson_corr: {'pearsonr': 0.8133741205164069}
+
+* best_1111_Siamese_lr=1e-4_wd=0.01_e10_b32_with_scheduler_rw1
+test accuracy: {'accuracy': 0.8224071443068804}
+test pearson_corr: {'pearsonr': 0.8021869234691698}
+
+* best_1111_Siamese_lr=1e-4_wd=0.01_e10_b64_with_scheduler_rw10
+test accuracy: {'accuracy': 0.7657803937487315}
+test pearson_corr: {'pearsonr': 0.7465915987892396}
+
+* best_1111_Siamese_lr=1e-4_wd=0.01_e10_b16_with_scheduler_rw10
+test accuracy: {'accuracy': 0.825654556525269}
+test pearson_corr: {'pearsonr': 0.8135197540977367}
+
+## GPT2 Grid search (lr=1e-4, 2e-5) wd(0.01, 0.005)
+* 1111_Siamese_lr=1e-4_wd=0.005_e10_b32_with_scheduler_rw10
+test accuracy: {'accuracy': 0.8104323117515729}
+test pearson_corr: {'pearsonr': 0.7916637337092319}
+
+## Roberta: Grid search (lr=1e-4, 2e-5, 5e-5) wd(0.01, 0.005) b(32, 16), rw(10, 5)
+* 1112_Siamese_lr=2e-5_wd=0.005_e10_b16_with_scheduler_rw10
+test accuracy: {'accuracy': 0.7852648670590623}
+test pearson_corr: {'pearsonr': 0.7991096925269368}
+
+
+# Only classifier:
+We want to compare with our best Bert model's performance without regression head
+
+1112_only_cls_Siamese_lr=1e-4_wd=0.01_e10_b32_with_scheduler
+test accuracy: {'accuracy': 0.8439212502537041}
+
+
+# Only regression
+
+We want to compare with our best Bert model's performance without classification head. 
+But I'm not sure to keep regression_weight as it is or set to 1. Result showed that when there is only one task,
+regression weight is not needed.
+
+1112_only_reg_Siamese_lr=1e-4_wd=0.01_e10_b32_with_scheduler_rw10
+test pearson_corr: {'pearsonr': 0.7197908549787885}
+
+1112_only_reg_Siamese_lr=1e-4_wd=0.01_e10_b32_with_scheduler
+test pearson_corr: {'pearsonr': 0.7608586281435595}

@@ -1,0 +1,854 @@
+all_preds_reg,all_preds_cls,all_labels_cls,all_labels_reg,premise,entailment
+3.490605,2,0,3.0,A group of children is playing in the house and there is no man standing in the background,The young boys are playing outdoors and the man is smiling nearby
+4.158439,1,0,3.665,A brown dog is attacking another animal in front of the man in pants,A brown dog is helping another animal in front of the man in pants
+2.871859,2,0,2.7,A brown dog is attacking another animal in front of the man in pants,There is no dog wrestling and hugging
+4.2765656,1,0,3.0,A person in a black jacket is doing tricks on a motorbike,A person on a black motorbike is doing tricks with a jacket
+3.4180748,0,2,3.9,The player is missing the basket and a crowd is in background,The player is dunking the basketball into the net and a crowd is in background
+3.3460925,0,2,3.5,There is no man dunking the ball at a basketball game,The player is dunking the basketball into the net and a crowd is in background
+3.482491,0,1,4.4,Two people are kickboxing and spectators are watching,Two people are fighting and spectators are watching
+4.8409934,1,0,4.0,Two spectators are kickboxing and some people are watching,Two people are kickboxing and spectators are watching
+3.5406148,2,0,3.3,There is no child lying in the snow and making snow angels,Two people in snowsuits are lying in the snow and making snow angels
+4.392163,1,0,2.9,A little girl is looking at a woman in costume,A little girl in costume looks like a woman
+3.6569214,0,1,4.8,A man is jumping into an empty swimming pool,A man is jumping into an empty pool
+4.490518,1,0,4.0,Four girls are doing backbends and playing outdoors,Four girls are doing backbends and playing indoors
+4.0396085,0,1,4.3,Four kids are doing backbends in the park,Four girls are doing backbends and playing outdoors
+3.221185,0,1,4.7,Two groups of people are playing football,Two teams are competing in a football match
+4.4960556,1,0,4.2,A deer is jumping over the enclosure,A deer is jumping a fence
+3.690403,0,1,3.8,Several people are in front of a building which is covered by colors,People are walking outside a building that has many murals on it
+2.1388733,0,2,3.8,A child is hitting a baseball,A child is missing a baseball
+4.419135,1,0,3.7,A little boy is watching a family that is hitting a baseball,A family is watching a little boy who is hitting a baseball
+3.744606,0,1,4.2,A family is watching a little boy who is hitting a baseball,A boy is hitting a baseball
+3.9570308,0,1,4.1,A family is watching a little boy who is hitting a baseball,A child is hitting a baseball
+4.001353,1,0,3.4,A large group of Asian people is eating at a restaurant,A small group of people is waiting to eat in a restaurant
+4.0083942,1,0,3.5,A large group of Asian people is eating at a restaurant,A group of people in a large Asian restaurant is eating
+4.3193817,1,0,3.6,A rider is on a black and white bike and is standing on the seat,A motorcycle rider is standing up on the seat of a white motorcycle
+4.3319173,1,0,3.7,Someone is on a black and white motorcycle and is standing on the seat,A motorcycle rider is standing up on the seat of a white motorcycle
+3.5266314,0,1,4.0,A man with a helmet painted red is riding a blue motorcycle down the road,A motorcyclist is riding a motorbike along a roadway
+3.3371794,0,2,3.3,There is no motorcyclist riding a motorbike along a roadway,A motorcyclist with a red helmet is riding a blue motorcycle down the road
+3.505332,0,1,4.5,A motorcyclist with a red helmet is riding a blue motorcycle down the road,A motorcyclist is riding a motorbike along a roadway
+3.9099956,0,1,4.2,A dog is catching a stick in the air and another is watching,A dog is leaping high in the air and another is watching
+4.404068,1,0,3.9,The blond girl is dancing behind the sound equipment,The blond girl is dancing in front of the sound equipment
+4.5806174,1,0,3.9,A woman is wearing an Egyptian headdress,An Egyptian is wearing a woman's headdress
+4.417679,1,0,3.7,The black woman is wearing glasses over the headdress,The woman is wearing glasses and a black headdress
+3.2151754,0,2,3.6,The woman is not wearing glasses or a headdress,A woman is wearing an Egyptian headdress
+4.148373,1,0,2.8,A cowgirl is riding a barrel near a horse in the corner,A cowgirl is riding a horse and corners a barrel
+4.6621714,1,0,3.6,A boy is standing outside the water,A boy is standing in the water
+4.395779,1,0,4.2,The kid is swimming through the blue ocean,The boy is wading through the blue ocean
+4.1331677,0,1,4.7,A person has blonde and flyaway hair and is playing a guitar,A guitarist has blonde and flyaway hair
+4.422836,1,0,3.8,Two girls are lying on the ground,Two girls are sitting on the ground
+4.1959376,1,0,3.1,"A man, a woman and two girls are walking on the beach","A man, a woman and two girls are sitting on the beach"
+4.031449,0,1,4.4,"A man, a woman and two girls are sitting on the beach",A group of people is on a beach
+3.8230674,0,1,3.8,"A man, a woman and two girls are walking on the beach",A group of people is near the sea
+4.498007,1,0,3.2,A dog is chasing another and is holding a stick in its mouth,A dog is chasing a stick and holding another dog in its mouth
+4.092945,1,0,3.8,A dirty soccer ball is rolling into a goal net,A soccer player is kicking a ball into the goal
+2.9420965,2,0,2.8,A soccer player is kicking a ball into the goal,A soccer ball is not rolling into a goal net
+4.3301764,1,0,4.0,A white and tan dog is running through a field,A brown and white dog is running through the tall grass
+4.4859276,1,0,3.6,A brown and white dog is moving through the wild grass,A white and tan dog is running through the tall and green grass
+3.855075,1,0,3.5,Some people are walking,Some people are standing
+3.1514487,0,1,3.6,A group of scouts are hiking through the grass,People are walking
+3.0948043,0,1,4.1,A group of explorers are walking through the grass,Some people are walking
+3.6898744,0,1,4.7,Two men are holding bikes and standing on the side of a road covered of snow,Two men with bikes are on the side of a snowy road
+4.4123545,1,0,3.6,Two men are holding some water standing near fishing poles,Two men are standing near the water and are holding fishing poles
+2.794961,0,1,4.6,A lady is surfing and riding a wave,A woman is surfing
+3.6366994,0,1,4.6,Two children and an adult are standing next to a tree limb,Three people are standing next to a tree limb
+3.934504,0,1,4.2,Two children are hanging on a large branch,Two children are climbing a tree
+4.4271483,1,0,3.5,A black man in green is riding a bike,A man dressed in black is riding a bike
+3.2708478,0,2,4.085,A child is holding a squirt gun,There is no child holding a water gun or getting sprayed with water
+3.6858416,0,1,4.5,A laughing child is holding a water gun and getting sprayed with water,A child is holding a squirt gun
+3.163115,2,0,3.0,A man wearing a dyed black shirt is sitting at the table and laughing,A man isn't sitting comfortably at the table
+4.2475533,1,0,2.9,A dog that has a brown and white coat is trotting through shallow water,A brown and white coat is floating across shallow water near a trotting dog
+4.190981,1,0,3.8,A white and brown dog is pacing through the water with difficulty,A dog that has a brown and white coat is trotting through shallow water
+3.3200774,2,0,3.1,A dog that has a brown and white coat is trotting through shallow water,There is no white and brown dog pacing with through the water difficulty
+4.3874755,1,0,4.0,A dog that has a white and brown colored coat is trotting through shallow water.,A white and brown dog is walking through the water with difficulty
+4.247304,1,0,2.5,A white and brown dog is walking through the water with difficulty,A brown and white coat is floating across shallow water near a trotting dog
+4.1704555,1,0,3.7,A white and brown dog is walking through the water with difficulty,A dog that has a brown and white coat is trotting through shallow water
+4.0930715,1,0,3.6,A group of boys are playing with a ball in front of a large door made of wood,A ball made of wood is being played through a door in front of a large group of boys 
+3.648617,0,1,3.8,A group of boys are playing with a ball in front of a large door made of wood,"The children are playing in front of a door, which is very large"
+3.7234824,0,1,4.2,A group of boys are playing with a ball in front of a large door made of wood,The children are playing in front of a large door
+3.4655442,2,0,2.8,A teenage girl is wearing beads that are red,The girl likes red and isn't wearing beads for teenagers
+2.5664213,0,1,3.0,"A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling",A teenage girl is wearing beads that are red
+4.0408072,0,1,5.0,A fearful little boy is on a climbing wall,"A little boy, who looks fearful, is on a climbing wall."
+3.1004515,2,0,3.0,A boy is coming down a wall artificially built for climbing and isn't attached to the rope,A fearful little boy is on a climbing wall
+2.849036,2,0,3.0,A man isn't tossing a kid into the swimming pool that is near the ocean,A father is launching the daughter in a swimming pool
+4.4330244,1,0,3.3,One man is descending a cliff with a rope,One man is climbing a cliff with a rope
+4.514206,1,0,4.3,The young boy is climbing the wall made of rock,A young kid is climbing a rock climbing wall which is indoors
+3.6783917,2,0,3.9,A young boy isn't climbing a wall made of rock,A young child is climbing a rock climbing wall which is indoors
+4.4718237,1,0,4.2,A young child is climbing a rock climbing wall which is indoors,The young boy is climbing the wall made of rock
+3.7739956,2,0,3.5,One man is doing a bicycle trick in midair,A man is failing to perform a bicycle trick in midair
+3.1409867,0,1,4.1,One man is doing a trick with a bicycle in midair,The cyclist is performing a trick in the air
+2.6972573,0,2,3.3,A man is failing to perform a bicycle trick in midair,The cyclist is performing a trick in the air
+3.2443247,0,1,4.4,One man is doing a bicycle trick in midair,The cyclist is performing a trick in the air
+4.3403397,0,2,3.6,"A dog, which is black, and a white one are ignoring each other in the street","A dog, which is black, and a white one are staring at each other in the street"
+4.445041,1,0,3.9,A dog which is furry and black is in a back yard and is carrying a basket in its mouth,A dog in the backyard is carrying black fur in a basket in its mouth.
+4.2679486,1,0,3.2,The bride is leaving the groom after the wedding,The bride and the groom are leaving after the wedding
+3.6826797,0,1,4.8,A married couple is walking down the aisle,A couple who have just got married are walking down the isle
+4.0801115,1,0,2.9,A married couple is walking down the aisle,The priest is walking down the aisle to marry a couple
+3.1086185,0,1,4.1,A couple who have just got married are walking down the isle,The bride and the groom are leaving after the wedding
+3.4163034,0,1,3.9,The presentation is being watched by a classroom of students,A classroom is full of students
+3.419626,2,0,3.6,"A woman, who is old, is near a white dog","A woman, who is old, is far from a white dog"
+3.9195173,0,1,4.6,A girl is looking on surprised from a front window in a house in Asia.,"A girl from Asia, in front of a brick window, looks surprised"
+4.2145576,0,1,4.4,The boy on the grass is lying and is hiding the football between his feet,The football is between the feet of a boy who is lying on the grass
+4.161574,1,0,3.2,"The climbing equipment to rescue a man is hanging from a white, vertical rock","A man with equipment used for climbing is hanging from a white, vertical rock."
+3.921394,0,1,4.4,A black and a white dog are joyfully running on the grass,"A dog, which has a black coat, and a white dog are running on the grass"
+3.4217434,2,0,3.2,One white dog and one black one are running side by side on the grass,There is no dog joyfully running on the grass
+4.2760463,1,0,4.1,A black and a white dog are joyfully running on the grass,One white dog and one black one are running side by side on the grass
+3.6304777,2,0,3.6,A lot of people are in an ice skating park,An ice skating rink placed outdoors is empty
+3.645305,0,2,3.6,There is no one on the shore,A bunch of people is on the shore
+3.9369264,0,1,3.8,People are on a beach full of sand by the ocean and are enjoying a day full of sun,A bunch of people is on the shore
+3.359449,0,2,3.7,People are on a beach full of sand by the ocean and are enjoying a sunny day,There is no one on the shore
+4.024043,0,1,4.4,"The young woman in a dyed red shirt, is blowing a bubble that is huge",The girl in the red shirt is blowing a bubble 
+3.7769942,0,1,3.8,"The young woman in a dyed red shirt, is blowing a bubble that is huge",The young girl is blowing a bubble that is huge
+3.9404378,0,2,2.8,Two young kids are eating corndogs,Two young kids are fasting
+4.238507,1,0,3.9,Two young kids are playing with a man eating corndogs,Two young kids are eating corndogs
+3.850267,0,1,3.5,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,A man in a pose is being amusedly watched by another man
+3.758318,0,1,3.9,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a face which looks funny,A man doing a pose is being watched by another man
+3.6856241,0,1,3.765,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,A man doing a pose is being watched by another man
+3.9928675,0,1,3.8,A man is falling off a horse on a track and is laid in the wild,A man is getting on a horse on a track laid in the wild
+4.7146025,1,2,4.1,"The man and the boy are standing at the bottom of the stairs, which are outdoors","The man and the boy are standing at the top of the stairs, which are outdoors"
+4.102873,1,0,3.4,Some furious racers on the green grass are yelling at the horses jumping an obstacle,Some horses are racing furiously over the green grass and jumping an obstacle
+4.5853987,1,0,2.6,A woman is wearing sunglasses of large size and is holding newspapers in both hands,A newspaper is featuring a woman with large sized hands holding sunglasses and wearing a coat
+3.3769546,0,2,3.4,An old woman is shirtless and is clumsily dropping two newspapers,An old woman is wearing a rose patterned shirt and is clumsily carrying two newspapers
+4.1715755,1,0,3.7,A motorbike rider is jumping over a person on a sandy track,The person is riding a motorbike on a sandy track
+3.933065,0,1,4.5,The young peaceful girl is lying about the grass found in the pink shirt,The young girl with a pink shirt is peacefully lying on the grass
+5.0063343,1,2,3.8,The turtle is following the fish,The fish is following the turtle
+3.1829162,2,0,3.4,The turtle is following the fish,A sea turtle is not hunting for fish
+3.4647195,0,1,4.4,A woman is dipping a prawn in batter,A woman is dipping a shrimp in batter
+3.7312515,0,1,4.5,A man is playing a guitar under a windows,A man is playing a guitar
+3.6948488,0,2,3.3,A woman is removing ingredients from a bowl,A woman is adding ingredients to a bowl
+3.1836555,2,0,3.2,A woman is slicing a carrot,There is no woman slicing a potato
+4.5277386,1,0,3.1,A woman is slicing a potato,A carrot is being sliced by a woman
+3.247954,2,0,3.2,A woman is slicing a potato,There is no woman slicing a carrot
+4.3221445,1,0,3.2,A woman is slicing a potato,A woman is slicing a carrot
+3.2971175,2,0,3.7,A man is speaking on a stage,There is no man speaking on a podium
+4.613526,1,0,4.0,A man is speaking on a stage,A podium is where a man is speaking
+4.145287,1,0,4.1,A small monkey is walking through water,A monkey is wading through a marsh
+4.092608,1,0,4.0,A woman is dancing and singing in the rain,A woman is dancing and singing alone
+1.9742832,0,2,2.7,A man is sitting,A man is dancing
+3.4587452,0,1,4.0,A man is playing soccer,A man is playing a game with a ball
+4.66776,1,0,3.6,A boy is spanking a man with a plastic sword,A man is spanking a boy with a plastic sword
+3.0936859,0,2,2.6,There is no man being hit,A boy is whacking a man with a sword
+4.8065867,1,0,3.6,A boy is whacking a man with a sword,A man is whacking a boy with a sword
+3.9187603,0,1,4.2,A boy is spanking a man with a plastic sword,A man is being hit by a kid with a weapon
+2.5779648,0,2,3.5,There is no man being hit,A boy is spanking a man with a plastic sword
+3.830675,0,1,4.3,A boy is spanking a man with a plastic sword,A boy is whacking a man with a sword
+4.0481677,0,1,4.4,The young lady is measuring the ankle of another woman,The woman is measuring the other woman
+3.358934,2,0,2.9,The woman is measuring the other woman,The lady isn't measuring the ankle of another woman
+4.066046,0,1,4.7,The lady is measuring the ankle of another woman,The woman is measuring the other woman
+3.1480863,0,2,3.365,A man is hanging up the phone,A man is making a call on a cell phone
+3.9935582,0,1,4.8,A man is making a call on a cell phone,A man is making a phone call
+4.437163,1,0,4.2,An animal is rolling from side to side in a garden,A dog is rolling from side to side
+3.4737837,2,0,3.4,A person is playing the keyboard,There is no man playing a keyboard
+4.2621727,1,0,4.0,A person is rinsing a steak with water,A man is rinsing a large piece of meat
+3.5572755,0,1,4.4,A sad man is crying,A man is crying
+2.93019,0,1,4.7,A man is spitting on the ground,A man is spitting
+3.1815174,0,1,4.5,A man is exercising,A man is doing physical activity
+3.9962976,0,1,3.8,A deer is jumping over a cyclone fence,A deer is jumping over a wall
+3.3514473,2,0,2.6,The man is stirring the sauce for the chicken,The man is not stirring oil
+3.8037324,0,1,4.2,A woman is cutting broccoli,A woman is slicing vegetables
+4.4404774,1,0,4.1,A woman is cutting some flowers,A woman is cutting some plants
+3.8509893,1,0,4.2,A musician is playing two keyboards,A man is playing two keyboards
+4.028954,0,1,4.3,A man is carrying a tree,A man is carrying a plant
+4.0902886,1,0,3.2,A man is carrying a tree,A man is planting a tree
+4.3157053,1,0,3.0,A man is playing the guitar,A man is playing the guitar owner
+3.320329,0,2,3.5,The chef is carefully drying the oil from the pan,The chef is carefully pouring some oil into a pan
+3.395498,2,0,3.3,The chef is carefully pouring some oil into a pan,There is no man pouring liquid into a pot
+4.1175165,1,0,3.5,The man needs a stenograph to operate ,The man is operating a stenograph
+3.6655338,2,0,4.0,The man isn't cautiously feeding a mouse to the snake,A snake is being fed a mouse by a man
+0.8595057,0,1,1.5,A guy is cheerfully playing with a footbag,The man isn't playing the piano
+3.9760575,0,1,3.5,A boat's sail is being reflected by the peaceful water,A boat is sailing peacefully over the water
+4.5927167,1,0,4.0,Milk is a kitten's drink,A kitten is drinking fresh milk
+4.6699243,1,0,3.9,Milk is a kitten's drink,The milk is being drunk by a cat
+4.718162,1,0,4.2,A kitten is drinking fresh milk,The cat is drinking some milk
+3.734479,0,2,3.4,A man is emptying a container made of plastic,A man is filling a container made of plastic
+4.1161976,1,0,3.015,The elephant is being ridden by the woman,The elephant is being ridden over a woman
+4.458143,1,0,2.8,A man is pushing the buttons of a microwave,A man is being pushed toward the buttons of a microwave
+4.5249944,1,0,4.1,A man is pushing the buttons of a microwave,One man is powering the microwave
+4.216533,0,1,4.2,One man is turning on the microwave,The buttons of a microwave are being pushed by a man
+4.354923,1,0,3.4,A man is being pushed toward the buttons of a microwave,One man is turning on the microwave
+3.3532286,2,0,3.4,A flute is being played by a girl,There is no woman playing a flute
+4.823543,1,0,4.2,One woman is playing a flute,A flute is being played by a girl
+3.791778,1,0,3.2,A piano is being played by a man,One boy is happily playing a piano
+3.097977,2,0,2.4,The boy isn't playing the piano happily,A piano is being played by a man
+4.393161,0,1,4.4,A cheetah is chasing its prey across a field,A cheetah is quickly running behind its prey.
+3.8199627,2,0,2.5,Not everyone is able to walk a lion,A lion is slowly walking
+2.8293993,2,0,3.5,A lion is slowly walking,There is no lion pacing tiredly in a pen
+3.4707236,2,0,2.6,The loud man is not allowed to play the guitar,A man is playing the guitar loudly
+4.533851,1,0,3.6,A girl is cutting butter into two pieces,A girl is melting two pieces of butter together
+4.120292,1,0,2.2,A girl is cutting butter into two pieces,A magician is cutting a girl into two pieces like butter
+4.9371796,1,0,3.5,Some sliced tofu is being eaten by a woman,Tofu is being sliced by a woman
+4.194999,1,0,4.0,The man is carelessly smearing butter on a slice of garlic bread,A man is spreading butter on a piece of bread which is big
+4.2049294,0,1,3.1,The microphone in front of the talking parrot is being muted,A parrot is speaking
+3.3400176,0,2,3.3,A man is putting away a guitar,A man is passionately playing a guitar
+4.2793446,1,0,4.2,A person is singing and playing the guitar,One man is passionately playing the guitar
+4.329946,1,0,3.9,A man is passionately playing a guitar,The singer is playing the guitar in front of a person
+3.4713895,0,2,3.2,A chimp is angrily kicking a target,A chimp is missing the target
+3.9722087,1,0,3.5,A person is taking away the meat in the skillet,A person is putting meat into a skillet
+4.583254,1,0,3.8,One small child is drinking water from the cup,One small child is filling the cup with water
+4.1764097,1,0,2.8,A woman is carefully removing her makeup,A woman is putting on makeup carefully
+3.0821898,2,0,3.4,A girl is not playing the guitar,The man is intensely playing the guitar
+3.8021731,0,1,4.4,The horse is being ridden by a man,A man is riding the animal
+4.5739074,1,0,3.7,The man is on the ride with the horse,The horse is being ridden by a man
+3.5839615,2,0,3.3,The practicing person doesn't like the guitar,The person is practicing the guitar
+3.7742996,0,1,3.8,The guitar is being played by a girl,The person is practicing the guitar
+3.941525,1,0,3.4,A lady is cutting up some meat,The woman is eating some cut pieces of raw meat
+4.5201764,1,0,3.6,A man is eating a carrot sliced by a machine,A man is slicing the carrot with a machine
+4.16554,1,0,4.2,The cat is licking a shallow dish full of milk,The cat is licking milk from a saucer
+3.0058413,2,0,3.2,A small boy is playing with a dog,There is no baby playing with a dog
+4.438222,1,0,3.4,The picture of a man is being taken near a lake,A man is taking pictures of a lake
+4.331467,1,0,3.8,A man is taking pictures of a lake,The man is setting up the camera and takes pictures of the sunset at the beach
+4.2748046,1,0,3.2,The man is setting up the camera and taking sunset pictures at the beach,A man is attentively taking pictures of a lake
+4.4604955,1,0,2.7,The picture of a man is being taken near a lake,The man is setting up the camera and taking sunset pictures at the beach
+4.3723736,1,0,3.4,The man is setting up the camera and taking sunset pictures at the beach,A man is taking pictures of a lake
+3.2046216,2,0,3.0,A woman is cracking an egg into a bowl,The woman is not cracking two eggs into a glass bowl
+3.2863142,2,0,3.1,A man is putting garlic on some bread slices,There is no man sprinkling seasoning on several sliced and buttered loaves of bread
+4.5185294,1,0,3.5,Two crocodiles are floating in a green colored swimming pool near some playing kids,Two kids are playing in a swimming pool with a green colored crocodile float
+4.071974,1,0,3.7,Two kids are pulling an inflatable crocodile out of a pool,Two kids are pushing an inflatable crocodile in a pool
+4.0798,0,1,4.5,Two kids are playing in a swimming pool with a crocodile float that is green,Two kids are pushing an inflatable crocodile in a pool
+3.8730023,0,1,4.4,Two kids are pushing an inflatable crocodile in a pool,Two kids are playing in a swimming pool with a green colored crocodile float
+3.3851192,2,0,3.75,The dog is not knocking the boy into the water,A dog is pushing a toddler into a rain puddle
+3.176885,2,0,3.6,The woman is not adding sugar to the meat,A woman is adding spices to some meat
+3.1512015,2,0,3.7,The woman is adding sugar to the meat,There is no woman adding spices to some meat
+4.803864,1,0,4.3,A teenager is playing the guitar,A kid is playing a guitar
+4.6346316,1,0,4.1,A teenager is playing the guitar,A boy is playing a guitar
+3.4403605,2,0,3.9,There is no boy playing a guitar,A kid is playing a guitar
+3.8139281,0,1,4.3,A camera is being hammered onto the nail by the man,The man is hammering a nail with a camera
+4.3144245,1,0,3.55,The man is hammering a nail with a camera,Someone is nailing a camera lens with loud bangs
+4.1207323,1,0,4.265,The man is hammering a nail with a camera,Someone is banging a camera lens against a nail
+3.563631,0,1,4.3,The oriental lady is cutting a carrot into thin pieces,A carrot is being sliced by a woman
+3.341961,0,1,4.4,The oriental lady is cutting a carrot into thin pieces,A woman is slicing a carrot
+2.8223572,0,1,3.6,A man is pouring a plate of cheese which is shredded into a pot of sauce,The lady is adding cheese to the sauce
+3.7319434,0,1,4.1,A person is burning some cameras with a blow torch,The person is setting fire to the cameras
+3.3372319,2,0,3.8,A man is playing the guitar,The man isn't playing an acoustic guitar
+4.4890804,1,0,3.4,A person is cutting an onion into pieces,A person is piecing together an onion
+4.2581244,1,0,4.3,The person is carefully slicing a potato,The man is slicing the potato
+4.0596037,0,1,4.4,Somebody is cutting a tomato,The lady is slicing a tomato
+4.451574,0,1,4.3,The runners are racing impetuously around a track,Runners are competing in a race
+3.4911864,2,0,3.6,Runners are competing in a race,The runners are not racing around a track
+4.667975,1,0,3.5,A man at the keyboard is playing with his nose,The man is playing the piano with his nose
+3.7996244,2,0,3.2,There is no man riding a motorcycle through the town,A man is riding a motorcycle
+3.061476,0,2,3.3,A man is speaking,A man is silent
+3.8018014,2,0,3.7,The woman is not dancing,A woman is dancing in a cage
+3.4499729,2,0,4.4,Four people are floating on a raft,People are not riding and paddling a raft
+3.2712445,2,0,3.7,Someone is slicing a tomato,The person isn't slicing a vegetable
+3.5549352,2,0,4.2,There is no man playing a bamboo flute,The man is playing a flute
+4.82884,1,0,3.4,A monkey is brushing the dog,A bull dog is brushing the monkey
+4.6474314,1,0,3.9,A man is dancing with a worn hard hat,A man is wearing a hard hat and dancing
+4.34611,1,0,3.0,Ferrets are climbing up a shelf,Ferrets are climbing down from a shelf
+4.181559,1,0,3.8,Several ferrets are climbing into the cage,Several ferrets are climbing out of the cage
+4.385905,1,0,3.6,A man is parking a car in a garage,A man is getting into a car in a garage
+3.6963491,2,0,4.3,There is no man singing and playing the guitar,A man is playing a guitar
+4.3270903,1,0,3.565,A woman on a rock is lying on a blanket and reading a book,A woman on a rock is standing and looking around
+3.6800969,0,1,4.165,Soccer players are kicking a soccer ball into the goal,A soccer player is scoring a goal
+3.3094485,0,1,4.8,A man and woman are talking,A man and a woman are having a conversation
+2.750045,2,0,3.0,A man and woman are talking,A man and a woman are not eating
+4.562471,1,0,3.515,A person is pouring olive oil into a pot on the stove,A person is pouring olive oil into the stove from a pot
+3.6583853,2,0,3.6,There is no guinea pig eating a carrot,A small guinea pig is gnawing and eating a piece of carrot on the floor
+4.7479014,1,0,3.8,A plane is taking off,A plane is landing
+4.456575,1,0,3.9,An animated airplane is landing,An animated airplane is taking off
+3.6072896,2,0,3.8,The woman is not penciling on eyeshadow,The girl is using an eye pencil on her eyelid
+3.6798692,2,0,3.3,The woman is penciling on eyeshadow,The girl is not using an eye pencil on her eyelid
+4.3661866,1,0,3.9,A woman is cooking eggs,The woman is lovingly cooking something
+3.3531365,2,0,3.0,There is no woman cooking eggs,The woman is cooking something
+3.2822244,0,1,4.4,Two cats are playfully fighting each other,The cats are playing with each other
+3.8449492,0,1,4.1,Two people are riding a motorcycle,Two people are riding a bike
+3.8783338,0,1,4.4,A girl is applying makeup to her face,A lady is putting on makeup
+4.076556,0,2,3.3,A woman is putting cosmetics on her eyelid,A woman is removing cosmetics from her eyelid
+3.694042,0,2,3.135,The woman is penciling on eyeshadow,A woman is removing cosmetics from her eyelid
+3.6646144,0,1,3.8,Different teams are playing football on the field,Two teams are playing soccer
+3.379234,2,0,3.2,A boy is sitting in a room and playing a piano by lamp light,There is no boy playing a keyboard
+3.3165267,2,0,3.6,There is no woman playing an electric guitar,A man is playing a guitar
+4.41542,1,0,3.4,The man is staging a microphone and is singing,The man on stage is singing into the microphone
+4.2906322,1,0,4.2,A man in a suit is standing at a microphone and singing,The man on stage is passionately singing into the microphone
+3.267319,2,0,3.3,The man on stage is singing into the microphone,There is no man in a suit standing at a microphone and singing
+4.5004425,1,0,3.8,Some children are jumping off a trampoline,Some children are jumping on a trampoline
+4.3441696,1,2,3.4,A man is jumping onto a low wall,A man is jumping off a low wall
+4.3151417,1,0,4.0,A man is athletically jumping a wall,A man is jumping onto a low wall
+4.338449,1,0,4.1,A person is ruffling the fur of a cat,A person is combing the fur of a cat
+4.369023,1,0,3.8,A person is ruffling the fur of a cat,A person is brushing a cat
+4.0666113,1,0,2.9,The woman is slicing garlic,A woman is chopping broccoli
+3.0180538,2,0,2.935,Three men are dancing,There is no woman dancing
+3.5521326,0,2,3.2,The man is fasting,The man is eating
+3.8846352,0,1,4.7,The man is eating,A man is eating some food
+3.8231132,0,2,3.5,A woman is applying cosmetics to her eyelid,A woman is removing cosmetics from her eyelid
+4.4381075,1,0,4.3,A woman is carefully applying cosmetics to her eyelid,A woman is using an eye pencil and is applying eye liner to her eyelid
+3.8533297,1,0,3.0,A baby is crawling happily,A baby is sitting
+4.8053417,1,0,3.1,A gloved person is kicking at the hand of a monkey,A monkey is kicking at the gloved hand of a person
+3.1477265,2,0,4.3,A man is missing the soccer ball,A man is kicking a soccer ball
+2.942754,2,0,3.5,A man is missing the soccer ball,A man is performing tricks with a soccer ball
+3.6179073,0,1,4.2,A man is performing tricks with a soccer ball,A man is kicking a soccer ball
+3.5243976,2,0,3.6,There is no young boy playing a wind instrument,A kid is playing an instrument
+4.2473073,1,0,4.0,A young boy is playing a wind instrument,A kid is practicing with an instrument
+4.0609264,0,1,4.6,A kitten is playing with a blue rope toy,The little cat is playing with a toy
+4.113872,1,2,4.0,A boy is running away from the fishing line,A boy is running towards the fishing line
+3.2266653,2,0,3.2,A boy is running away from the fishing line,There is no boy hanging a fishing rod and running in front of a fish
+3.4179156,2,0,3.5,The squirrel is not running in circles,An animal is running in circles
+4.219908,1,0,4.0,A woman is placing two eggs into a pot of water,A woman is taking two eggs out of a pot of water
+3.511795,2,0,3.2,There is no person kicking a soccer ball between somebody's feet,A person is kicking a soccer ball between their feet
+3.75198,0,1,3.8,A person is kicking a soccer ball between their feet,The person who is playing soccer is kicking the ball between somebody's legs
+3.8256507,0,1,4.6,A man is walking a woman through the woods,A man and a woman are walking through the woods
+2.5571127,0,2,3.0,The man and woman are not walking,A man and a woman are walking through the woods
+3.6392457,0,1,4.2,The man and the woman are walking through the woods,The man and woman are walking
+3.352894,0,1,4.4,A man and a woman are walking through the woods,The man and woman are walking
+2.8452587,0,2,2.9,An airplane is flying through the air,An airplane is being stationed on the ground
+3.932617,0,1,4.4,Somebody is typing on the keyboard,Someone is typing
+3.7409341,0,1,4.4,Someone is typing on a keyboard,Someone is typing
+2.533235,0,2,2.7,A woman is deboning a fish,A woman is freeing a fish
+3.904493,2,0,3.2,One woman is handing volleyballs to another woman,One woman is denying the volleyballs to another woman
+4.4100037,1,0,3.3,A woman is serving volleyballs over a net,A woman is being handed volleyballs by another woman
+4.26917,1,0,3.6,One woman is handing volleyballs to another woman,A woman is serving volleyballs over a net
+4.3764052,1,0,4.0,A man is chopping a log with an axe,The man is chopping the trunk of a tree with an axe
+3.719422,2,0,3.7,The man is not chopping a tree trunk with an axe,A man is chopping a log with an axe
+4.65299,1,0,3.7,The man is chopping a tree trunk with an axe,One man is chopping a log with an axe
+3.3439567,2,0,3.1,There is no man chopping a log with an axe,The man is chopping a tree trunk with an axe
+3.337189,0,2,3.8,A man is putting away a guitar,A man is playing a guitar
+3.466173,2,0,3.9,There is no white cat perched on a small wooden cabinet looking outside the window,The cat perched on the table is looking out the window
+4.113055,1,0,3.835,A dog is licking a toddler,A dog is licking a baby
+3.469435,2,0,3.1,There is no woman dancing,The man is dancing
+4.02407,0,1,4.6,A person is jotting something with a pencil,A person is writing
+4.5206394,1,0,2.7,Someone is boiling okra in a pot,Someone is being boiled with okra in a pot
+4.3563285,1,0,3.1,A squirrel is running around in circles,A runner is circling a squirrel
+4.032299,1,0,2.8,The man is doing floor exercises,A man doing exercises is being floored
+3.6288228,2,0,3.8,The man is not doing floor exercises,A man is doing exercises
+4.0139494,1,0,3.1,A monkey is riding a bike,A bike is being ridden over a monkey
+2.8632946,2,0,3.9,Some fish are swimming,A fish is not swimming
+4.5873036,1,0,4.4,A woman is putting meat in a pan,The meat is being dropped into a pan
+3.0659902,2,0,2.6,A woman is collecting tap water in a mug,There is no boy filling a pitcher with water
+4.475816,1,0,3.6,A woman is taking off eyeshadow,A woman is putting on eyeshadow
+3.6172423,0,2,3.0,A woman is putting on eyeshadow,The woman is removing make-up
+3.6152534,2,0,3.6,A toy train is missing a toy car,A toy train is striking a toy car
+4.3922477,1,0,3.2,A toy train is striking a toy car,A car and a train are striking a toy
+4.833067,1,0,3.7,A person is peeling an onion,Onions are being sliced by the person
+3.75345,2,0,3.0,The person is not slicing onions,A person is peeling an onion
+4.226429,1,0,3.3,A woman is picking up and holding a baby kangaroo in her arms,A woman is dropping a baby kangaroo from her arms
+4.165555,1,0,3.6,The woman is picking up and holding a baby kangaroo,A woman is dropping a baby kangaroo from her arms
+4.3896637,1,0,3.2,A woman is scrubbing a zucchini with a vegetable brush,A woman is eating zucchini and vegetables and scrubbing with a brush
+4.107633,2,0,3.8,There is no woman scrubbing a zucchini with a vegetable brush,A person is scrubbing a zucchini
+2.969549,0,1,4.3,A man in a hat is playing a harp,A man is playing an instrument
+3.357729,2,0,3.3,The woman with the knife is not slicing a pepper,A woman is slicing a green pepper
+4.5577583,1,0,4.3,A cat is playing a piano,The cat is playing keyboards
+3.6991158,0,1,4.3,A man is rising from a swamp,A man is coming out of the water
+3.491736,0,1,4.8,A man is doing exercise,A man is exercising
+2.670979,0,2,2.5,The man is silent and still,The man is singing and playing the guitar
+3.9620743,0,1,4.3,The women are dancing outside,A few people are dancing
+3.1304445,0,2,3.4,There is no group of people dancing,The women are dancing outside
+4.3812943,1,0,3.7,Some boys are in front of dancing people,Boys are dancing in front of some people
+4.039877,0,1,4.4,The boy is riding a bike on the top of a metal fence,The biker is riding along the top of a fence
+4.0501537,0,1,4.2,The boy is riding a bike on the top of a metal fence,A biker is riding along the top of a fence
+4.6902347,1,0,4.27,A child is slowly waking up,A girl is waking up
+4.4027615,1,0,3.8,A man is climbing up a rope,A man is coming down a rope
+4.3191776,0,2,3.6,The woman is putting down the kangaroo,The woman is picking up the kangaroo
+4.0467005,1,0,3.1,A man is breaking a wooden hand against a board,A man is breaking wooden boards with his hand
+4.599414,1,0,3.5,A man is breaking boards made of wood with his hand,A man is breaking tiles with his hands
+4.1957827,1,0,2.7,A man is breaking a wooden hand against a board,A man is breaking tiles with his hands
+4.363916,1,0,3.9,A man is breaking wooden boards with his hand,A man is breaking tiles with his hands
+2.9148684,0,2,3.6,There is no man running on the road,A man is running on the road
+2.9986854,2,0,2.3,A dog is running on the road,There is no man running on the road
+4.481886,1,2,3.235,A man is inside the house and is throwing blades at a close target,A man is outside and is throwing blades at a close target
+3.0735621,0,2,3.5,The person is not drawing,A man is drawing a picture
+3.7561405,1,0,4.6,Someone is drawing a person,A man is drawing a picture
+4.235772,1,0,3.3,A man is taking a picture of a drawing,The person is drawing
+3.7462578,0,1,4.6,A man is drawing a picture,The person is drawing
+2.6364777,2,0,4.3,The panda bear is not lying on the logs,A cute panda is lying down
+2.4226108,0,1,3.3,A woman is cutting an onion,A woman is not cutting meat
+3.8319716,1,0,3.2,The man is erasing the other man's work from the board,The girl is erasing the other man's work from the board
+3.3179765,2,0,3.0,There is no woman slicing an eggplant,A woman is cutting a vegetable
+3.4226387,2,0,3.7,A person is slicing a piece of bread,There is no man slicing some bread
+2.8395648,2,0,1.9,Someone is scratching the belly of an animal,There is no woman stroking a lemur
+3.4106634,0,2,3.2,The animal with big eyes is sleeping,The animal with big eyes is eating
+3.76571,0,1,3.7,A lemur is eating quickly,The animal with big eyes is eating
+2.8749738,2,0,2.3,The animal with big eyes is eating,There is no lemur eating
+4.3768973,1,0,3.4,People are singing and a clown is dancing,A clown is singing and people are dancing
+2.695462,0,2,4.3,There is no clown singing,A clown is singing and people are dancing
+3.4805434,0,1,4.4,A clown is singing and people are dancing,A clown is singing
+3.526778,2,0,4.0,A person is not quickly chopping mushrooms with a knife,A man is rapidly chopping some mushrooms with a knife
+3.4219995,2,0,3.7,A person is quickly chopping mushrooms with a knife,There is no man rapidly chopping some mushrooms with a knife
+4.9525027,1,0,3.6,An old woman is shaking hands with a man,A young woman is shaking hands with a man
+4.6397443,1,0,3.4,A plane is landing,A plane is taking off
+4.7195454,1,0,4.4,An airplane is taking off,A plane is landing
+3.6636302,0,1,4.4,The man is painting,A man is drawing
+3.1191342,2,0,3.1,A man is cutting a paper,A person is not tearing paper
+4.1926694,0,1,4.3,A man is riding a horse in the desert,A guy is riding a horse
+3.0711482,0,1,3.8,Two people in a race are flipping the tires of a tractor,Two men are racing in a tire rolling competition
+3.3305106,0,2,3.5,A person is removing chopped vegetables from a pot on the stove,A person is dropping chopped vegetables into a pot on the stove
+3.5316916,0,1,4.6,The men are having a conversation,The men are talking
+3.6314375,2,0,4.1,Some women are talking,Some women are not talking
+4.470153,1,0,4.0,The rhino is being fed on the grass,A rhino is grazing in a field
+4.2537813,1,0,3.5,A couple is running towards the ocean,A couple is running and holding hands
+3.4318683,0,1,4.6,The boy is playing the piano,The boy is playing a musical instrument
+4.0363655,1,0,4.435,A girl is brushing her hair,A girl is combing her hair
+3.4212782,2,0,3.3,There is no girl brushing her hair,A girl is styling her hair
+4.4109464,1,0,4.3,A girl is styling her hair,A girl is brushing her hair
+2.4306164,2,0,3.4,The doctor is helping the patient,The doctors are not reviving a man
+4.014556,0,1,5.0,A piece of wood is being screwed to a wall by a man,A man is screwing a piece of wood to a wall
+3.7552426,1,2,4.0,A man is emptying a plastic container,A man is filling a plastic container
+4.5921183,1,0,4.1,An animal is being ridden by a woman,A woman is riding a horse
+3.7128103,2,0,3.2,There is no man singing and playing a guitar,A man is playing a guitar
+3.4298158,2,0,4.0,The boy is not cutting the grass by the curb with scissors,A boy is cutting grass with scissors
+3.9033465,1,0,4.2,The baby is laughing and crawling,The baby is laughing and toddling
+4.457215,1,0,4.3,A man is cutting a big rope with a sword,A man is cutting a thick rope with a sword
+4.4260454,1,0,4.0,A man is carving a hole in a piece of wood,A man is drilling a hole in a piece of wood
+4.5290394,1,0,3.8,A man is drilling a hole in a piece of wood,A man is drilling a hole with a piece of wood
+3.4540925,2,0,3.8,Nobody is drilling a hole in a strip of wood with a power drill,A man is drilling a hole in a piece of wood
+4.128208,1,0,4.0,A man is holding a small animal in one hand,A man is holding a big animal in one hand
+4.1832237,1,0,3.8,A group of boys is playing soccer on the beach,A group of men is playing with a ball on the beach
+4.292275,1,0,4.0,A group of men is playing soccer on the beach,A group of boys is playing soccer on the seashore
+3.484085,2,0,3.2,A group of men is playing soccer on the beach,A group of boys is not playing soccer on the beach
+4.75881,1,0,3.0,A person is kicking a monkey,A monkey is kicking a person
+4.499185,1,0,4.2,The girl is standing on the couch and crocheting,The girl is sitting on the couch and is crocheting
+3.4645386,0,1,4.9,A woman is riding on an elephant,An elephant is being ridden by a woman
+4.6904597,1,0,3.5,A dog is teasing a monkey at the zoo,A monkey is teasing a dog at the zoo
+3.957398,1,0,4.4,A girl is styling her hair,A girl is combing her hair
+2.8849537,0,1,4.6,A woman is exercising,A person is exercising
+4.0285835,1,0,2.1,Carrots are being sliced by a woman,A woman is cutting potatoes
+3.9410222,1,0,3.2,A woman is slicing potatoes,A woman is slicing carrots
+3.2079554,2,0,2.7,A woman is slicing carrots,There is no woman cutting potatoes
+3.1193323,0,1,4.4,A man is doing pull-ups,A man is doing exercises
+2.9549062,0,1,4.4,The man is doing exercises in a gym,The man is exercising
+2.9777033,0,2,2.75,The man is not exercising,A man is doing pull-ups
+3.4950082,0,1,4.9,The man is exercising,A man is doing exercises
+2.9083579,0,1,4.6,A man is doing pull-ups,The man is exercising
+3.6931596,0,1,3.9,A cat is walking on the parquet,A cat is walking on a hardwood floor
+3.5839956,0,1,4.5,Someone is putting ingredients into a wok,Someone is putting ingredients into a pan
+4.4138565,1,0,3.1,Someone is putting ingredients into a pan,A person is cutting garlic into pieces with a knife
+3.0145428,2,0,4.0,An officer is talking to the recruits,The military officer is not barking at the recruits
+3.7466598,1,0,3.8,Recruits are talking to an officer,The military officer is barking at the recruits
+2.9714165,2,0,3.3,A man is cutting an onion,There is no woman slicing an onion
+4.177868,1,0,3.3,A woman is painting a man's face,A man is painting a woman's face
+3.5472965,0,1,5.0,Makeup is being put on the man by the woman,The woman is putting makeup on the man
+3.3035693,2,0,3.7,There is no woman cutting an onion,A man is cutting onions
+4.5547566,1,0,4.4,A man is fishing in the river,A man is fishing in the stream
+4.2298136,1,0,4.1,A man is singing and standing on the sidewalk,A man is singing and walking down the sidewalk
+3.7202778,0,1,4.1,A man is riding a water toy in the water,A man is playing with a water toy in the water
+4.5168324,1,0,3.7,A man is doing a card trick,A man is doing a magic trick
+3.10715,0,1,4.7,A man is pouring cleaner into the sink,A man is cleaning the sink
+4.186165,1,0,2.6,A man is petting two cats,A man is petting two dogs
+4.161652,1,0,3.4,A woman is pulling some sticky goo out of a bowl,A woman is putting some sticky goo in a bowl
+3.6913676,0,1,4.3,A tiger cub is roaring,A tiger cub is making a sound
+4.507851,1,2,4.1,A woman is placing food in a pot of hot water,A woman is placing food in a pot of cold water
+3.7386744,0,1,4.5,A rabbit is playing with a toy rabbit,A rabbit is playing with a toy
+3.7144222,0,1,4.5,A bunny is playing with a stuffed bunny,A rabbit is playing with a toy
+3.9494753,0,1,4.4,A flute is being played by a girl,A girl is playing a wind instrument
+3.6977432,2,0,3.7,There is no girl playing a flute,A girl is playing a wind instrument
+3.8555882,1,0,3.9,The piano is being played by someone,A person is playing a keyboard
+3.2324932,2,0,2.635,Someone is not playing piano,A person is playing a keyboard
+3.7086582,0,1,3.8,Someone is playing piano,A person is playing a keyboard
+2.98816,0,1,4.5,A man is diving into a pool,A man is diving into the water
+4.120483,1,0,3.9,A man is riding a motorbike,A man is riding a scooter
+4.1252613,1,0,3.7,A woman is taking eggs out of a bowl,A woman is cracking eggs into a bowl
+3.5834062,0,1,3.8,The little kid is singing and playing the guitar,A baby is playing a guitar
+3.73991,2,0,3.7,There is no man reading the email,Someone is reading the email
+3.274158,0,1,4.5,A man is playing a flute,A man is playing an instrument
+3.9183075,1,0,3.5,The lady is cracking an egg into a bowl,The lady is taking an egg out of a bowl
+3.0273666,0,1,4.3,A man is playing the drums,A man is playing the instrument
+3.817931,0,1,4.4,The man is using a sledgehammer to break a concrete block that is on another person,A man is breaking a slab of concrete with a sledge hammer
+3.7213228,0,1,4.5,The man is using a sledgehammer to break a concrete block that is on another man,A man is breaking a block of concrete with a sledge hammer
+3.6899755,0,1,4.5,The man is using a sledgehammer to break a concrete block that is on another man,A man is breaking a slab of concrete with a sledge hammer
+4.6213493,1,0,4.0,A woman is eating a cupcake,A woman is eating a cake
+4.276919,1,0,3.4,A girl is eating a cupcake,A woman is eating a cake
+4.7577066,1,0,3.9,A cupcake is being eaten by a girl,A woman is eating a cupcake
+4.6703477,1,0,3.8,A girl is eating a cupcake,A woman is eating a cupcake
+4.139738,1,0,3.3,A chef is cleaning a bowl of soup,A chef is getting a bowl of soup dirty
+4.0256863,1,0,3.5,A chef is cleaning a bowl of soup,A man is cleaning the edge of a bowl
+3.3225992,2,0,3.4,A kid is playing the guitar,There is no young boy singing and playing a guitar
+3.637677,2,0,3.2,Nobody is stirring a pot of chili with a spoon,Someone is stirring chili in a kettle
+4.8049216,1,0,4.1,Someone is stirring chili in a kettle,Someone is stirring a pot of chili with a spoon
+4.3256145,1,0,3.5,A cat is playing with a small bottle,A cat is playing with a big bottle
+4.383051,1,0,3.5,A small dog is lying on the bed,A small dog is lying under the bed
+4.3895917,1,0,3.1,A small dog is lying on a bed,A small dog is lying under the bed
+4.0544477,1,0,4.2,The cook is sprinkling cheese on the pizza,A man is putting some cheese on a pizza
+4.248501,1,0,3.9,A man is dancing on the ceiling,A great singer is dancing on the ceiling
+3.5116336,2,0,3.1,A man is dancing on the ceiling,There is no famous singer dancing on the ceiling
+3.8056362,0,1,4.5,A cow is eating grass,A cow is grazing
+3.612407,0,1,4.2,A cow is eating hay,A cow is grazing
+3.6627698,2,0,3.1,A cow is eating hay,A cow is not eating grass
+4.057084,0,1,4.8,A man is talking to a woman,A man and a woman are speaking
+4.467907,1,0,4.2,A person is riding an electric bicycle,A man is riding a bicycle
+3.5281074,2,0,3.5,A man is riding a bicycle,There is no man riding an electric bicycle
+4.2246385,1,0,2.6,A dog is jumping into a box,A cat is jumping into a box
+4.5472364,1,0,3.915,An old man is talking to a leaf,A young man is talking to a leaf
+4.0461254,1,2,3.6,A man is shooting with a bow,A man is shooting with a gun
+4.706699,1,0,4.2,A woman is dancing near a fire,A woman is dancing near a fireplace
+4.3032126,1,0,3.3,A man is playing a guitar,A boy is playing a guitar
+4.3758154,1,0,3.8,A man is diving off a rock,A man is diving off a cliff
+4.2179127,1,0,4.0,Someone is stirring noodles in the water,A man is boiling noodles in water
+4.2399673,1,0,4.4,A lemur is biting a person's finger,An animal is biting somebody's hand
+4.3163733,1,0,3.9,A boy is skateboarding on a half pipe,A man is skateboarding on a half pipe
+4.4281673,1,0,4.1,A skateboarder is doing tricks on a half pipe,A boy is skateboarding on a half pipe
+4.5157876,1,0,4.3,A man and a woman are driving down the road in a car,A man and a woman are driving down the road in an open-air vehicle
+3.2244267,2,0,3.4,The woman is not seasoning the oil,A woman is pouring ingredients into a bowl
+3.816434,0,1,4.0,Two men are boxing,Two men are fighting
+2.5598238,2,0,3.415,A dog is chasing a ball through dirt,There is no dog catching a ball
+4.264229,1,0,4.1,A man in a hat is walking through a store,A man in a hat is walking past a store
+4.5182185,1,0,1.9,The man in a cowboy hat is walking through a market and is putting a hand in his pocket,A walker is in a hat store for men
+4.477511,1,0,3.7,A large white crane is flying far above the water,A large white crane is flying near the water
+4.14532,0,2,3.7,A dog with golden fur is in the water,A dog with golden fur is out of the water
+4.291124,1,0,3.8,A dog with golden fur is in the water,A brown dog is standing in the water
+3.0874653,0,2,2.5,The girl is not carrying a sign and no group of people is following her,A young girl in a blue shirt is walking on the sidewalk and holding up a pink sign
+2.2169862,0,2,2.7,The girl is carrying a sign and a group of people is following her,There is no young girl in a blue shirt walking on the sidewalk and holding up a pink sign
+2.6664267,0,2,3.1,The small child is wading through the water and is being guided by another person,There is no young child splashing in the water
+4.1497817,2,0,3.6,The little dog is dropping the bedroom slipper from its mouth,The little dog is grabbing the bedroom slipper with its mouth
+4.3470173,1,0,4.1,A person in a blue jacket is jumping off of a tall cement wall,A person in a blue jacket is jumping onto a tall cement wall
+4.4729524,1,0,3.6,The brown dogs are playfully fighting on the sandy shore,A brown dog and a red dog are frolicking on the beach
+4.434652,1,0,3.7,The brown dogs are playfully fighting on the sandy beach,The brown dog and the red dog are frolicking on the beach
+4.4536204,1,0,3.6,A brown dog and a red dog are frolicking on the beach,The brown dogs are playfully fighting on the sandy beach
+4.1221747,2,0,3.0,There is no man standing beside a large and colorful birdcage,The man is standing next to a bird cage
+4.1418643,0,1,3.9,A brown and white dog is holding a baseball in its mouth,A baseball is being held in its mouth by a black and white dog
+4.188155,1,2,3.8,A young boy wearing a red swimsuit is jumping into a blue kiddies pool,A young boy wearing a red swimsuit is jumping out of a blue kiddies pool
+3.33794,2,0,2.2,There is no boy wearing red shorts jumping into a paddling pool,A young boy wearing a red swimsuit is jumping into a blue kiddies pool
+2.7887833,0,2,2.6,A boy and a girl are naked,A boy and a girl in swimsuits are wearing arm floats
+4.4664464,1,0,4.0,The boy and the girl are cheerfully playing and wearing arm floats,A boy and a girl in swimsuits are wearing arm floats
+3.6593437,2,0,3.6,The boy and the girl are not playing and wearing arm floats,A boy and a girl in swimsuits are wearing arm floats
+4.6269617,1,0,4.0,A boy and a girl in swimsuits are wearing floats for their arms,The boy and the girl are playing and wearing arm floats
+4.343753,1,0,3.5,A woman in a yellow shirt is surfing on a pink surfboard,A woman in a pink shirt is surfing through yellow surfboards
+4.24559,1,0,3.7,Four people are standing on a low cement ledge,Four people are sitting on a low cement ledge
+4.189812,0,1,4.6,A cold cyclist is celebrating,Something is being celebrated by a cold cyclist
+4.0364017,0,2,2.7,A policeman is sitting on a motorcycle,A policeman is getting off of a motorcycle
+4.4767137,1,0,3.5,A policeman is sitting on a motorcycle,A motorcyclist is sitting by a police man
+4.620722,1,0,2.8,The cop is sitting on a police bike,A motorcyclist is sitting by a police man
+4.5146055,1,0,4.2,The cop is sitting on a police bicycle,A policeman is sitting on a motorcycle
+2.597325,2,0,2.9,A dog with a golden coat is swimming through the water,There is no dog swimming in a lake with sunshine shining on him
+3.0985394,0,2,2.5,The little girl in a pink shirt is running under a tree in the desert,There is no girl wearing jeans and a pink shirt and running
+3.4793334,2,0,3.1,There is no white dog wearing a Christmas reindeer headband and playing with a brown dog in the grass,The white dog wearing reindeer ears is near a brown dog
+3.0690444,2,0,3.6,There is no young boy riding a dirt bike through the mud,A young child is riding a bike on a rough dirt path
+3.1872978,0,2,3.7,A woman in a red dress is putting away an instrument,A woman in a red dress is playing an instrument
+4.3849964,1,0,3.8,The woman in a red costume is leaning against a brick wall and playing an instrument,An instrument is being played by a woman in a red dress
+4.6543865,1,0,3.5,The child is playing with toys outdoors,The child is playing with toys indoors
+4.928281,1,0,4.0,A sheepdog is dispersing a herd of sheep,A sheepdog is grouping a herd of sheep
+4.337841,1,0,3.2,A yellow palm is in front of a building and one dark skinned male is standing next to it,The dark skinned male is standing on one hand in front of a yellow building
+3.8460333,1,0,2.7,The man is playing the guitar and has the guitar case open for donations,The man is opening the guitar for donations and plays with the case
+4.178783,1,0,3.5,A couple is sitting on a patio and is staring at the ocean,Two adults are sitting in the chairs and are watching the ocean
+4.166098,1,0,3.5,A couple is sitting on a patio and looking at the ocean,Two adults are sitting in the chairs and are watching the ocean
+3.0370047,2,0,3.6,A little boy is wearing a yellow tank top and is laughing,There is no small boy in a yellow shirt laughing on the beach
+4.676012,1,0,4.33,Two men are riding an orange raft on the beach,Two men are riding an orange raft on the shore
+4.251325,0,1,4.3,A dog with really long hair and a red vest is running in the grass,The dog in the red vest is running in the field
+4.149887,0,1,4.3,A dog with long hair and a red vest is running in the grass,The dog in the red vest is running in the field
+4.4624677,1,0,4.0,One person is standing in a vast field of glacial ice,The person is standing on white ice
+2.7913349,2,0,3.6,The person is standing on white ice,There is no person standing in a vast field of glacial ice
+3.903168,1,0,3.5,A blond boy is walking up a sand dune with a skateboard,A blond boy is sliding down a sand dune on a skateboard
+3.622318,0,2,4.2,A man is putting down an electronic device,A man is holding up an electronic device
+3.0916302,0,1,3.4,The man is taking a picture of himself and another guy,A man is holding up an electronic device
+3.7241457,0,2,4.2,A brown dog and a black dog are far from the grass,A brown dog and a black dog are in the grass
+4.1869984,1,0,3.3,Several women are wearing pink bunny ears and are pointing to the right,The women are wearing something right and pointing at several bunny ears
+4.1178374,0,1,3.8,Women are wearing bunny ears and race numbers and are curiously pointing at something in the distance,Several women are wearing pink bunny ears and are pointing to the right
+3.9662054,0,2,3.6,Two people are looking at a gold statue,Two people are ignoring the nearby gold statue
+2.3170593,0,1,3.3,A woman is wearing a blue helmet and is riding a bicycle in a parking lot,The bicyclist is not riding on a city street
+4.7051425,1,2,4.0,A young girl is standing on one leg,A young girl is standing on both legs
+4.0316634,0,1,4.2,The young boys are posing with a green soccer ball in a park,The young kids are posing with a green soccer ball in a park
+3.4684756,0,2,4.6,A horse and its rider are not leaping over a barrier,A horse is leaping a hurdle and has a rider on its back
+3.3978732,0,1,4.6,A horse is leaping a hurdle and has a rider on its back,A horse and its rider are leaping over a barrier
+4.775389,1,2,3.2,A football player in a red and white uniform is being lifted by two teammates,A football player in a red and white uniform is being pulled down by two teammates
+4.31782,1,0,4.1,A woman in a white dress and a woman in a blue dress are standing beside a stage,A woman in a white dress and a woman in a blue dress are standing on a stage
+4.161665,1,2,3.7,Two young women with folded arms are looking away from the screen,Two young women with folded arms are looking at the screen
+4.2497582,1,0,4.0,A boy is jumping off a platform and two other boys are standing and watching,A boy is jumping on a platform and two other boys are sitting absentmindedly
+4.0208306,1,0,3.465,Three boys are jumping off a platform,A boy is jumping on a platform and two other boys are sitting absentmindedly
+3.696064,0,1,3.0,"The grotto with a pink interior is being climbed by four middle eastern children, three girls and one boy",A group of kids is playing on a colorful structure
+3.797515,0,1,3.785,"Four middle eastern children, three girls and one boy, are climbing on the grotto with a pink interior",A group of kids is playing on a structure which is colorful
+3.400309,2,0,3.2,A child is making a snow ball,There is no kid in orange playing outside with a snowball
+4.375213,1,0,4.3,Two people are sitting in lawn chairs and are reading books,Two people in two chairs are reading pleasantly
+4.461366,0,1,4.5,Two people are sitting in lawn chairs and are reading books,Two people in two chairs are reading
+4.112837,0,1,3.8,Two children are leaning on a rusty ledge,Two children are peering over a rusty ledge
+4.086334,1,0,3.4,Two children are crouching under some metal bars,Two children are stretching over some metal bars
+4.6069794,1,0,4.0,A man on a bike is riding on the shore,A person is riding a bicycle in the sand beside the ocean
+4.145716,1,0,3.8,A seabird is slowly flying over some rocks,A large duck is flying over a rocky stream
+3.6398447,2,0,3.8,A large duck is flying over a rocky stream,There is no seabird flying over some rocks
+4.3245964,1,0,3.8,A large duck is flying over a rocky stream,A seabird is flying over some rocks
+2.691004,2,0,2.8,The kids are chasing each other in the sand,There is no little boy running on the ground and playing with a little girl
+4.2104955,1,0,3.5,A father is pulling his daughter on a go-kart and another girl is looking away,A father is pushing his daughter on a go-kart and another girl is watching
+4.0873632,1,0,4.0,A dog is running up a grassy hill,A dog is quickly running uphill
+3.7565544,0,1,4.4,A couple of white dogs are running and jumping along a beach,Two dogs are playing on the beach
+3.577451,0,1,4.185,Two white dogs are running and jumping along a beach,Two dogs are playing on the beach
+2.767038,2,0,3.2,The large brown dog is not running outside in the dirt,A dog is running alongside a fence on a dirt track
+4.233126,1,0,3.8,A girl is jumping off a rock and another is standing on it,A girl is jumping on a rock and another is sitting on it
+3.2299638,2,0,4.0,The man with brown hair is not wearing sunglasses and is not sitting at a table with cans of soda and other drinks,A young man with brown hair and sunglasses is sitting in front of some cans of soda
+4.303203,1,0,3.0,A man is holding a sign and is seeking money,A man is seeking a sign and is holding some money
+3.4770238,0,1,3.6,A snowboarder is doing a flip over a mound of snow,Somebody is leaping in the air on a board
+4.251537,1,0,4.3,A large crowd in warm clothing is posing for a camera,A crowd is posing for a large camera man in heavy clothing
+4.42125,1,0,3.8,"Two men, a woman, and two young boys are sitting in front of a large gathering of people outside a building","Two men, a woman, and two young boys are standing in front of a large gathering of people outside a building"
+3.9982653,0,2,4.3,A blonde boy in green is sitting on a swing,A blonde boy in green is standing on a swing
+4.1430335,1,0,3.7,A man in a red uniform is making a jump in a dirt bike race,A man in a red uniform is racing and making a jump over a bike in the dirt
+3.3083873,0,1,4.1,A man in a red uniform is swiftly making a jump in a dirt bike race,A man is participating in a bmx race
+3.2580183,0,2,3.0,A man is not participating in a bmx race,A man in a red uniform is making a jump in a dirt bike race
+4.046497,0,1,4.6,Two twin preteen boys are dueling with sticks,Two twin preteen kids are dueling with sticks
+4.0831885,0,1,4.8,Some people playing rugby are tackling each other,Rugby players are tackling each other
+4.360878,1,0,4.1,The boy and girl are playing on the outdoor gym,Some kids are playing on a playground
+3.6877928,2,0,2.9,Some children are not playing on a playground,The boy and girl are playing on the outdoor gym
+3.5382884,2,0,3.4,Some children are playing on a playground,The boy and girl are not playing on a playground
+4.313635,1,0,3.9,The boy and girl are playing on the outdoor gym,Some children are playing on a playground
+3.9921231,2,0,3.765,The rider on the blue and black motocross bike is not wearing the pants,The motocross rider is wearing blue and black pants
+3.3566484,0,1,3.9,"A biker with a blue jacket, black pants and a white helmet is driving on dirt and people are watching",Blue and black pants are being worn by the motocross rider
+4.41214,1,0,4.4,An oriental man and two women are in front of a camera,An oriental man and two women are facing a camera
+4.018222,1,2,3.2,An oriental man and two women are turning their backs to the camera,An oriental man and two women are facing a camera
+3.9539185,1,0,4.0,An oriental man and two women are in front of a camera,A group of people is standing together and looking at the camera
+4.731063,1,0,2.7,A small girl is riding in a toy car,A small toy girl is in a riding car
+4.1405396,1,0,3.7,A child in a red outfit is jumping on a trampoline,A little boy in clothes dyed in red is jumping into the air
+3.590379,0,2,3.0,A woman and three men are posing for a photo,Three men and a woman are running away from a picture
+4.1615577,1,0,3.7,The black dog is sprinting through the grass,The black dog is walking through the tall grass
+3.1315162,2,1,4.4,The black dog is walking through the tall grass,The black dog is not running through the grass
+4.171123,1,0,3.8,A black dog is walking through some tall grass,The black dog is running through the grass
+3.0437484,2,0,3.4,The black dog is not walking through the tall grass,The black dog is running through the grass
+3.7760975,2,0,3.0,A dog is standing with its two front paws on a rock in a field,The black dog is not climbing on a rock
+4.5583196,1,0,3.9,A young child with black hair is deleting a picture from the camera,A young child with black hair is taking a picture with a camera
+4.0296435,1,0,3.5,A young child with black hair is taking a picture with a camera,A camera is being held in front of the face of a child
+2.969272,2,0,2.8,A young child with black hair is taking a picture with a camera,There is no child holding a camera in front of his face
+4.0108247,0,1,4.2,Two little boys are wearing tuxedos,Two little kids are wearing tuxedos
+2.5980988,0,1,4.2,"Two boys, who look small, dressed in tuxedos are sitting on a red carpeted floor",Two little boys are wearing tuxedos
+2.571855,0,1,4.4,Two small boys dressed in tuxedos are standing on a red carpeted floor,Two little boys are wearing tuxedos
+2.1811106,0,1,4.5,Two small boys dressed in tuxedos are sitting on a red carpeted floor,Two little kids are wearing tuxedos
+2.3342893,0,2,2.8,Two small boys dressed in tuxedos are sitting on a red carpeted floor,Two little boys are not wearing tuxedos
+2.588977,0,1,4.4,Two small boys dressed in tuxedos are sitting on a red carpeted floor,Two little boys are wearing tuxedos
+4.5967093,1,0,3.8,A dog with a muzzle and a blue jacket is running around the yard,A dog with a blue muzzle is running around the yard with a jacket
+3.1862957,0,1,3.7,A dog with a muzzle and a blue jacket is running around the yard,A dog with a blue blanket is running through the grass
+4.2069097,1,0,4.2,A person with a green shirt is jumping onto the grass,A person with a green shirt is jumping high over the grass
+4.3155727,1,0,3.6,A woman in a black shirt is sitting next to a fluorescent green bag,A woman in a black shirt is standing next to a fluorescent green bag
+4.346098,0,1,4.5,The man is doing a wheelie on a mountain bike,A person on a bike is riding on one wheel only
+4.038682,0,1,4.7,One man is doing a wheelie on the mountain bike,A man on a bicycle is riding on one wheel only
+3.7012665,2,0,4.0,The man is not doing a wheelie on a mountain bike,A man on a bicycle is riding on one wheel only
+3.9239862,0,1,4.4,The man is doing a wheelie on a mountain bike,A man on a bicycle is riding on one wheel only
+3.4722211,2,0,2.6,There is no brown duck with a green head flapping its wings in the water,A bird is flapping its wings on the water
+2.791558,2,0,2.5,The brown dog is not playing outdoors,The furry brown dog is running through the grassy area
+4.63757,1,2,3.5,A woman in a fur hat and fur coat is sitting outside a building,A woman in a fur hat and fur coat is standing outside a building
+4.376138,1,0,3.6,The elderly lady is waiting on the sidewalk,The elderly person is waiting a lady on the sidewalk
+3.9832902,0,1,3.8,A young child is running down a road made of gravel that is covered with dead leaves,A young child is running outside over the fallen leaves
+3.9838786,0,1,4.1,A young child is running down a gravel road that is covered with dead leaves,A young child is running outside over the fallen leaves
+4.54878,1,0,4.0,A man is wearing a long sleeved blue shirt and jeans and is riding a unicycle down a street,A man is wearing a blue checkered shirt and cheerfully riding a unicycle in the street
+4.6663084,1,0,3.9,A man is wearing a long sleeved blue shirt and jeans and is riding a unicycle down a street,A man is wearing a blue checkered shirt and riding a unicycle in the street
+4.143555,1,0,4.6,Some men in the distance are staring at three big hills,Three men are staring at the big green hills in the distance
+4.0464315,1,0,3.4,Three men are looking into the distance,Three men are looking at something nearby
+4.102221,1,0,3.8,One man is jumping off a rock wall and another man is dropping a rope,One man is climbing a rock wall and another man is holding a rope
+3.3514633,0,1,4.2,Two children are playing on a statue,Small kids are climbing a statue in a park
+3.6990087,0,1,4.4,Small children are climbing a statue in a park,Some children are playing on a statue
+3.0531738,0,2,3.7,There are no children playing on a statue,Small children are climbing a statue in a park
+2.8216407,0,2,3.75,A woman is turning her back from the view of a city,A woman is looking at the view of a city
+1.9752276,0,2,2.4,There is no young child dressed for cold weather standing outside,A smiling boy in winter clothes is waving his mittened hands outside a building in the snow
+3.7809625,0,1,4.1,A smiling boy in winter clothes is waving his mittened hands outside a building in the snow,A young child dressed for cold weather is standing outside
+4.152088,1,0,3.1,A dog is chasing a ball in the grass,A dog with a ball is being chased in the grass
+3.2723749,2,0,3.4,There is no tan dog jumping up and catching a tennis ball,A red dog is jumping and catching a tennis ball in its mouth
+4.559899,1,0,4.0,The bearded man is sitting on a train,The hairy man is sitting on a train
+4.1736894,1,0,3.8,A small child is showing excitement on a swing set at the park,A small child is showing boredom on a swing set at the park
+4.3484745,1,2,3.4,The little girl is swinging and the woman is standing behind her,The girl is standing behind the little woman who is swinging
+4.5833874,1,0,3.9,A man is performing a trick on a surfboard in the water,The wave is being ridden by a surfer
+4.6192784,1,0,3.7,A person is performing a trick on a surfboard in the water,A surfer is riding the wave
+4.0035167,1,0,3.6,A surfer is riding the wave,A man is performing a trick on a surfboard in the water
+2.514336,0,2,2.8,A man in a white shirt and sunglasses and a man in a black shirt and sunglasses are sitting at a table with four beer bottles,There are no men sitting at the table with four beer bottles
+4.0592475,1,0,3.7,Two guys are standing by a table and putting some beers down on it,Two guys are sitting around a table and holding beers in their hands
+4.1217155,1,0,4.1,Two brown dogs are playing with the frisbee in the water,Two dogs are fighting for a frisbee in a lake
+4.277771,1,0,4.5,Two dogs are fighting for a frisbee in a lake,Two brown dogs are playing with a frisbee in the water
+4.1915073,1,0,4.0,A football player is running into an official carrying a football,A football player is running past an official carrying a football
+4.2585263,0,1,4.2,A person on a bike is jumping through the air and the sun is flaring through the bike frame,The person is flying through the air on a bicycle
+4.179484,0,1,4.4,The bunch of men are playing rugby on a muddy field,Some men are playing rugby
+2.9465246,2,0,2.8,The bike rider is looking at an accident of another bike rider,A person is ignoring the motocross bike that is lying on its side and there is no one is racing by
+3.19944,2,0,3.4,A person is looking at a motocross bike that is lying on its side and another is racing by,The bike rider is not looking at the accident of another bike rider
+3.73426,0,1,4.0,It is snowing on two playing dogs,Two dogs are playing in the snow
+4.1716013,1,2,3.285,A girl is getting a tattoo removed from her hand,A girl is getting a tattoo on her hand
+3.5472066,2,0,3.8,A man is wearing a red jacket and standing beside a yellow canoe on some rocks with water in the background,There is no man in a red jacket standing next to a yellow kayak on some rocks by the ocean
+3.320531,2,0,2.6,The black dog is not walking along a tree trunk bridge over water,A dog is crossing a river on a bridge made from a fallen tree
+4.3824544,1,0,4.4,The black dog is walking along a tree trunk bridge over water,A dog is crossing a river on a bridge made from a fallen tree
+4.046181,0,1,4.285,A little boy is proudly wearing a green soccer strip and is running on the grass,A child in a green and white sports uniform is running over the grass
+4.3192835,1,0,3.8,A girl in a black hat is standing topless at the beach,A girl in a black hat is wearing a bikini at the beach
+3.797723,2,0,4.3,A man is performing a handstand on the beach,The man at the beach is not doing a handstand on the wet sand at the edge of the water
+4.724289,1,0,3.7,A boy in blue is running away from a woman in blue,A boy in blue is running towards a woman in blue
+4.1073823,1,0,3.5,A little boy with brown hair is jumping off of a brown chair onto the floor,A young boy is jumping onto a chair
+3.3313,2,0,3.5,A young boy is jumping off a chair,There is no little boy with brown hair jumping off of a brown chair onto the floor
+4.504716,1,0,4.1,The blonde girl with the pink top is happily smiling and wearing funny glasses with a large nose attached,A little girl is smiling and wearing a fake nose and glasses
+4.4459887,1,0,3.5,A boy under an umbrella is being let go by his father who is wearing a blue coat,A boy under an umbrella is being held by his father who is wearing a blue coat
+3.4827497,2,1,4.5,A child is amazedly experiencing a new world,A child is experiencing a new world
+4.2602577,1,2,3.6,A great dog is climbing a steep hill,A great dog is getting down a steep hill
+3.9603603,0,1,4.6,People are walking through a crowd in the street,People are walking through a crowded street
+3.5382993,2,1,4.0,No surfer is riding a big wave across dark green water,The surfer is riding a big wave
+3.1835167,2,0,3.4,There is no tennis player lunging to the left,A tennis player with a green headband is hitting the ball
+3.8856335,0,1,4.6,Two dogs are looking at something that is moving in the water,Two dogs are looking at something that is splashing in the water
+4.401708,1,0,3.9,Two dogs are looking at something that is splashing in the water,Two cats are looking at something that is splashing in the water
+4.1818337,1,0,3.6,The brown dog is jumping in the air,A brown dog is jumping in the water
+3.6507123,0,1,4.5,A person is riding a bike along a muddy trail,A person is riding a bike along the trail
+4.7213545,1,0,3.7,A man in a blue cowboy hat is riding a black horse,A man in a blue cowboy hat is riding a white horse
+4.2674723,0,1,4.2,Three people are driving ATVs,Three people are driving four wheel vehicles in a field
+4.374737,0,1,4.6,Three people are driving four wheel ATVs in a street,Three people are driving ATVs
+3.131152,2,0,4.0,Two white dogs and one brown dog are not chasing a ball,Two white dogs are playing with a brown dog and a ball
+4.300282,1,0,4.3,Two white dogs and one brown dog are chasing a ball,Two white dogs are playing with a brown dog and a ball
+4.1998835,1,0,3.5,A dog is jumping at a shiny blue soccer ball in a field of dry leaves,A dog is jumping at dry leaves in a field of shiny blue soccer balls
+3.3393068,0,1,4.1,A dog is running through a field and is chasing a ball,A dog is running towards a toy
+3.2063928,0,1,4.1,A dog is running through a field and is chasing a ball,A dog is running towards a ball
+2.721824,2,0,2.4,There is no boy in a white t-shirt splashing in shallow water,A boy is running through the water at the beach
+3.634847,0,1,4.7,A basketball player is on the court floor and the ball is being grabbed by another one,Two basketball players are scrambling for the ball on the court
+3.616924,0,1,4.3,A basketball player is on the court floor and another one is grabbing the ball,Two basketball players are scrambling for the ball on the court
+4.25801,0,2,3.5,A black sheep is standing near three white dogs,A black sheep is standing far from three white dogs
+4.6072745,1,0,3.5,A grey dog is jumping toward a black and white dog in the snow,A grey dog is jumping toward a black and white dog in the water
+4.220717,1,2,4.0,A man dressed in black and white is holding up the tennis racket and is waiting for the ball,A man dressed in black and white is dropping the tennis racket and is waiting for the ball
+3.591533,0,1,4.3,A brown and white dog is playing on the lawn,A dog is playing on the green grass
+3.578099,0,1,4.2,A brown and white dog is playing on the grass,A dog is playing on the green grass
+3.0017614,2,0,2.8,There is no tan skinned child looking at the camera,A little boy with a bib is watching the camera
+4.4043803,1,0,3.5,A black and white dog is playing with a new volleyball,A black and white dog is playing with a broken volleyball
+4.123628,0,1,4.3,A black and white dog is playing with a ruined volleyball in a brown field,A black and white dog is playing with a broken volleyball
+4.011367,0,1,4.35,A topless woman is being smeared with a brown substance and a blurry crowd is in the background,A woman is being smeared with brown substance and a blurry crowd is in the background
+4.147046,1,0,3.1,A group of people is holding food and pointing at the camera,A group of people is holding drinks and pointing at the camera
+3.6913369,0,1,3.9,A man in a purple hat is climbing a rocky wall with bare hands,The man is rock climbing
+4.0379558,1,0,3.415,Two people are driving a jeep and a lady is sitting on the top of it,Two people are driving a boat and a lady is sitting on the top of it
+4.4875073,1,0,3.8,A blond woman is sitting on the roof of a yellow vehicle and two people are inside,A blond woman is sitting on the roof of a yellow vehicle and two people are outside
+4.4178224,1,2,3.9,The yellow dog is drinking water from a bottle,The yellow dog is drinking water from a pot
+4.0384216,0,1,4.9,A yellow dog is drinking water from the faucet, water from the faucet is being drunk by a yellow dog
+4.3924413,1,0,3.5,A girl is standing in a group and is wearing a black shirt and pink beads,A girl is standing alone and wears a black shirt and pink beads
+4.215744,1,0,3.2,Two large dogs are frolicking in a grassy field,Two large dogs are frolicking in a parking lot
+4.1429124,1,0,3.9,A dog is running across a rocky landscape,A black dog is walking along rocky terrain
+4.1970687,1,0,3.7,A black dog is running across a rocky landscape,A black dog is walking along rocky terrain
+4.3794684,1,0,3.0,Three dogs are resting on a couch,Three dogs are resting on a sidewalk
+4.662736,1,0,3.4,A young man is pushing a motocross bike up a dirt hill,A young man is pushing a motocross bike down a dirt hill
+4.356822,1,0,3.8,A middle aged man and woman are riding bikes down a road beside the water,A middle aged man and woman are riding horses down a road beside the water
+4.634726,1,0,3.5,A young man and a woman are riding bikes on the boardwalk near the ocean,An older man and a woman are riding bikes on the boardwalk near the ocean
+3.2022576,0,1,4.1,An older man and a woman are riding bikes on the boardwalk near the water,A middle aged man and woman are riding bikes down a road beside the water
+4.7292233,1,0,4.0,Pedestrians and cars are moving through a traffic jam in a small city,Pedestrians and cars are moving through a traffic jam in a big city
+4.1047716,0,1,3.9,Pedestrians and cars are moving through a traffic jam in a big city,Some people and cars are on a crowded street
+4.046858,0,1,3.2,Pedestrians and cars are moving through a traffic jam in a big city,Some people and vehicles are on a crowded street
+3.4369323,0,1,3.6,Two brown and white dogs are fighting on a grassy area in front of a tree,Two animals are playing outside
+3.76788,0,1,4.8,A soccer player is sitting on the field and is drinking water,Water is being drunk by a soccer player sitting on the field
+3.4517803,0,1,3.7,Water is being drunk by a soccer player sitting on the field,A man is sitting on the grass and drinking from a water bottle
+4.473495,1,2,3.6,The dog is running through the wet sand,The dog is running through the dry sand
+4.4049454,1,0,3.5,A dog is running on the beach,The dog is moving through the wet sand
+4.03897,1,0,3.8,The dog is running through the wet sand,A dog is running on the sea shore
+4.156651,1,0,4.1,A dog is running on the beach,The dog is running through the wet sand
+3.305288,2,0,3.7,A boy is wearing sunglasses,A chubby faced boy is not wearing sunglasses
+3.488511,0,2,3.2,There is no bmx biker jumping dirt ramps in front of a body of water,Some bikers are getting airborne on a track near water and a skyline
+4.6240096,1,0,4.3,A racer in full gear is wearing a helmet with sponsor logos and is riding a red sport motorcycle,A racer in full gear wears a helmet with sponsor logos and is riding a blue sport motorcycle
+4.4006486,1,0,3.3,A person in a motocross uniform is wearing a helmet and rides a red motorcycle,A racer in full gear wears a helmet with sponsor logos and is riding a blue sport motorcycle
+4.3989472,1,0,3.9,People are sitting at round tables in a red room,People are sitting at square tables in a red room
+3.9848151,1,0,4.4,A boy in a striped shirt is playing in front of a water fountain,A boy in a striped shirt is jumping in front of a water fountain
+4.4444494,1,2,4.2,A boy is jumping on the side of a stone water fountain in front of a building,A boy is jumping off the side of a stone water fountain in front of a building
+3.7024877,2,0,2.9,A bald man in a band is playing guitar in the spotlight,There is no man playing guitar next to a drummer
+4.483038,1,2,4.3,A little girl is smiling and running outside,A little girl is smiling and running inside
+3.6715622,2,0,2.8,There is no man skiing down a snowy hill,A skier in black is catching a tiny bit of air
+4.7111826,1,0,4.0,Two men are looking out and one is holding binoculars,Two men are looking out and one is holding a spyglass
+3.9773357,1,0,4.4,Two men are standing together and one is looking through binoculars,Two men are looking out and one is holding binoculars
+4.6117754,1,0,3.5,An old man in a white shirt and gold and black hat is sitting with crossed legs,A young man in a white shirt and gold and black hat is sitting with crossed legs
+4.11545,1,0,4.085,A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a man with grey hair,A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a woman with grey hair
+4.553525,1,0,4.1,A shirtless man is playing football on a lawn,A shirtless man is playing football on a field
+3.3600352,2,0,4.2,The person is going into the water,The man is not going into the water
+3.0419955,0,2,3.8,Five people are standing in the grass with three dogs,Five people are running with three dogs in the green field beside the road
+4.2516313,1,0,4.1,A girl is carrying a lot of colorful scarves on the beach,A young woman is carrying a lot of colorful scarves on the beach
+4.5895495,1,0,4.0,A light brown dog is running in the grass,A light brown dog is running in the water
+4.644539,1,0,4.3,A tan dog is splashing in the water on the bank of a pond,A tan dog is splashing in the water on the bank of a river
+4.1980324,1,2,3.4,The child is splashing water in a small blue pool,The child is splashing water in a big red pool
+4.0880632,1,2,3.5,A toddler is making a splash outside a blue paddling pool,A toddler is making a splash inside a blue paddling pool
+4.3103094,1,0,4.3,The child is splashing water in a small blue pool,A baby is splashing inside a blue paddling pool
+4.2833614,1,0,4.2,A toddler is making a splash outside a blue paddling pool,The child is splashing water in a small blue pool
+4.147751,1,0,3.5,The brown dog is spotting a black dog and is playing in the dry grass,The brown dog is spotting a black dog lying in the dry grass
+3.8724895,0,1,4.6,A black dog and a small white and black dog are looking up at a kitchen countertop,Two dogs are looking up at a kitchen countertop
+4.236832,1,0,3.4,A black dog and a small white and black dog are looking up at a kitchen countertop,A large dog and a small dog is standing on the kitchen counter and investigate
+4.297551,0,1,4.7,A tan dog which is dirty is rolling in the dirt and looking right at the camera,A dirty tan dog is rolling in the dirt and looking right at the camera
+4.5522594,1,0,3.8,A dirty tan dog is rolling in the water and looking right at the camera,A dirty tan dog is rolling in the dirt and looking right at the camera
+3.3488498,0,1,4.0,A dirty tan dog is rolling in the dirt and looking right at the camera,A dog is playing on the ground
+3.5633225,0,1,4.2,A dirty tan dog is rolling in the dirt and looking right at the camera,A dog is rolling on the ground
+3.7315927,0,1,4.1,Little kids are playing in a water fountain in front of few people,Children are playing in a fountain that is spraying water from the ground
+4.5546737,1,0,3.6,A person on a yellow dirt bike is taking a jump,A person on a yellow clean bike is taking a jump
+4.1717505,1,0,3.5,Five adults are sitting on stone steps,Five adults are sitting on a chair
+3.5395577,2,0,2.8,A man is not rock climbing and a city and a bay are in the background,"A man is rock climbing, pausing and calculating the route"
+4.106997,0,1,4.6,A little girl is hitting a baseball off a tee,A little girl is hitting a ball off a tee
+3.4474626,0,2,3.15,A little girl is missing a baseball on a tee,A little girl is hitting a baseball off a tee
+3.9719748,1,0,3.9,A girl is hitting a little tee with a baseball,A little girl is hitting a baseball off a tee
+3.49309,0,1,3.9,A group of people is gathering at a stand at the fair,The people are standing at a carnival
+4.4830384,1,0,4.2,Rollerbladers are rolling in formation down a hill,Rollerbladers are running in formation down a hill
+4.4065204,1,0,4.1,A woman is standing with a pair of dogs,A woman is marching with a pair of dogs
+4.520836,1,2,3.1,A woman is showing a dog with very short hair at a dog show,A woman is showing a dog with very long hair at a dog show
+4.4207687,1,2,3.3,Three children are running down hill,Three children are running up hill
+3.5009477,2,0,3.2,A black bird with a yellow beak is standing in the green grass,A black and orange bird is not standing in the grass
+4.1655893,1,0,3.6,Two black puppies are playing near a pool,Two white puppies are playing near a pool
+3.8876686,0,1,4.0,A group of people are looking at sound equipment,A group of people are standing around a sound mixing console
+3.1749816,2,0,2.9,A group of people are looking at sound equipment,A group of people are not standing around a sound mixing table
+4.2852674,1,0,3.6,A young couple is lying on a bed together,A young couple is lying on a couch together
+4.085115,0,1,4.5,A young couple is lying in bed,A couple is lying on a bed together
+4.3550286,1,0,3.4,A young couple is lying on a couch together,A young couple is lying in bed
+4.2281203,1,0,3.7,People are crossing a rope bridge over a rocky stream,Three people are walking across a rope and wood bridge over a river
+4.163355,1,0,3.5,Three men are walking across a rope and wood bridge over a river,People are walking across a rope bridge over a rocky stream
+3.7492301,0,1,4.4,A toddler is riding a plastic scooter toy,A toddler is playing with a plastic scooter toy
+3.4306698,2,0,3.0,A toddler is not riding a plastic scooter toy,A young child is riding a three wheeled scooter down the sidewalk
+3.62174,0,1,3.6,The young child is riding a three wheeled scooter down the sidewalk,A toddler is riding a plastic scooter toy
+4.6425915,1,0,4.4,Three hikers are standing on a mountainside and looking at the view with a pair of binoculars,Three hikers are sitting on a mountainside and looking at the view with a pair of binoculars
+4.011164,1,0,3.3,Three men are sitting on a hill and looking at the mountains and sky,Three men are sitting on a hill and looking at the sea
+4.2611117,0,1,4.3,A brown dog is standing in a lake,A brown dog is standing in the water
+3.9696255,1,0,3.585,Two dogs are walking slowly through a park,Two dogs are running through the park
+4.4230156,1,0,4.1,A man is hanging on the ledge of a balcony,A man is leaning on the ledge of a balcony
+4.2593412,1,0,3.9,The dog is on a leash and is walking out of the water,The dog is on a leash and is walking near the water
+4.1102276,1,2,3.55,The dog is on a leash and is walking in the water,The dog is on a leash and is walking out of the water
+4.171164,1,0,3.585,A dog is catching a black frisbee,A dog is catching a white frisbee
+3.7880855,0,1,3.9,A middle eastern man is standing with the back against a lamp post near to other people,A man is leaning against a pole and is surrounded
+3.869433,0,1,4.2,A middle eastern man is standing with the back against a lamp post near to other people,A man is leaning against a pole and is surrounded by people
+3.6974247,0,2,3.0,A couple is not looking at a map,A man and a woman are standing in front of an art gallery and are looking at a map
+4.252689,1,0,3.7,The dog is running across the dirty path,The dog is running across the gravel
+4.2432942,1,0,3.4,The cat is running across the gravel,The dog is running across the gravel
+3.5261838,0,2,3.3,Two males are standing on a cliff edge and no one is jumping into the water,One boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is jumping of it into the water
+4.2179203,1,0,4.0,A boy is playing a game with steel blocks,A boy is playing a game with wooden blocks
+4.6622705,1,0,3.4,A group of five old adults are lounging indoors,A group of five young adults are lounging indoors
+3.271438,2,0,2.8,A dog has its head inside a red and green gift bag,The red and brown dog is not digging its nose inside a holiday gift bag
+4.287316,1,0,3.6,A young girl in a bikini is jumping on the beach,A girl with a bikini is playing in the sand
+3.2052646,2,0,3.5,A young girl in a bikini is jumping on the beach,No girl with a bikini is playing in the dunes
+4.404782,1,0,4.0,A boy is wearing a white hat and is running on the beach,A boy is wearing a white hat and is walking on the beach
+4.14778,0,1,4.9,A cardboard box is being touched by a man in a black hat,A man in a black hat is touching a cardboard box
+3.4815233,2,0,3.585,A man in a black hat is touching a cardboard box,A man in a black hat is not reaching for a box
+4.260729,1,0,4.1,A man in a black hat is reaching for a box,A cardboard box is being touched by a man in a black hat
+4.0029974,1,0,3.7,Two dogs are playing on a beach,Two dogs are playing in a forest
+4.3880363,1,0,3.6,A brown dog is running after a black dog on a rocky shore,A brown dog is running after a white dog on a rocky shore
+4.537986,1,0,3.965,Two dogs are playing on a sandy beach,Two dogs are playing on a rocky beach
+4.261676,1,0,3.9,A black dog is approaching a golden dog on pebbly beach,A white dog is approaching a golden dog on pebbly beach
+4.319729,1,0,3.7,A small white dog is jumping up in the snow,A large white dog is jumping up in the snow
+4.185038,1,0,4.0,A large white dog is jumping up in the snow,A large black dog is jumping in the air over a snowy area
+4.545361,1,0,3.9,Two young kids are wearing hats and sticking their colored tongues out,Two kids are sticking out blue and green colored tongues
+4.262054,1,0,4.1,A white dog is standing on a grassy hillside,A black dog is standing on a grassy hillside
+3.3036385,2,0,3.5,There is no dog standing on the side of a mountain,A white dog is standing on a grassy hillside
+4.916852,1,0,3.7,A brown and black dog is pointing the nose upwards,A brown and black dog is pointing the nose downwards
+3.159916,2,1,4.9,A veteran is showing different things from a war to some people,Different things from a war are being shown to some people by a veteran
+4.078042,2,0,3.3,A young white child is not standing on the edge of a body of water near some buckets,A young black child is standing on the edge of a body of water near some buckets
+4.19209,1,0,4.2,Two children are playing soccer in the park,Children are playing outside with a soccer ball on the green grass
+4.018313,0,1,3.8,Two little boys are playing outside with a soccer ball on the green grass,Two children are playing with a ball in the park
+4.2590775,1,0,3.9,A man is standing in the middle of a gym and is wearing a jersey,A man in a black jersey is standing in a gym
+3.914948,0,1,3.4,A distant person with a blue backpack is hiking area full of rocks,The person is hiking
+3.2519338,2,0,3.8,There is no person with a blue backpack hiking in rocky area,The person is hiking
+3.2636545,0,2,3.5,No person is hiking,A distant person with a blue backpack is hiking in rocky area
+4.276107,1,0,3.915,A woman is wearing paint and costume pieces and is riding a bike on a empty street,A woman is wearing paint and costume pieces and is riding a bike on a busy street
+3.8585298,0,1,4.0,A woman is wearing paint and costume pieces and is riding a bike on a empty street,A girl in a strange outfit is riding the bike
+4.3403535,1,0,3.9,The white dog is carrying a blue and white ball in its mouth,The black dog is carrying a blue and white ball in its mouth
+3.6020076,2,0,3.3,A girl in a uniform is not playing the flute with a marching band,A girl in a band is playing the flute
+4.0110993,1,0,3.7,Two people are standing on a bench,Two people are sitting on a bench
+3.544461,0,1,4.3,Two girl with dogs are walking on a forest path,Two dogs and two people are walking in the woods
+4.5139422,1,2,3.285,Three friends are making faces for the camera,Three enemies are making faces for the camera
+4.1559515,1,0,4.1,A person is walking in the snow at the edge of a mountain,A person is standing in the snow at the edge of a mountain
+4.451469,1,0,4.4,A man in a black wetsuit is riding a foamy wave,A surfer in a black wetsuit is riding a foamy wave
+4.5168357,1,0,4.2,A surfer in a black wetsuit is riding a foamy wave,A surfer in a white wetsuit is riding a foamy wave
+4.260123,1,0,4.1,A surfer is surfing a small wave,A surfer is surfing a huge wave
+4.452838,1,0,3.1,The players is maneuvering for the soccer ball,The players is maneuvering for the basket ball
+4.4204516,1,2,3.5,A man in green is kicking a soccer ball and a man in purple and white is rising up,A man in green is kicking a soccer ball and a man in purple and white is falling down
+4.1656804,0,1,4.1,A kid is splashing in the ocean,A kid is splashing in the water
+4.3780503,1,0,4.1,The man dressed in chaps made of leather and a purple shirt is standing in front of some onlookers,A man is wearing a purple shirt and black leather chaps and is posing for the camera
+4.466549,1,0,3.3,A model is wearing a purple shirt and black leather chaps and is posing for the camera,The man dressed in leather chaps and a purple shirt is standing in front of someone lookers
+4.207829,1,0,3.8,Two dogs are running and catching a tennis ball,Two dogs are running and trying to catch a soccer ball
+4.412671,1,0,3.2,A dog is in a sandy area with the sand that is being stirred up into the air and several plants are in the background,A cat is in a sandy area with the sand that is being stirred up into the air and several plants are in the background
+3.0938506,0,1,4.3,A dog is in the sand that is blowing in the wind,A dog is in a sandy area with the sand that is being stirred up into the air and several plants are in the background
+4.446641,1,2,3.6,The black and white dog is running indoors,The black and white dog is running outdoors
+4.31296,1,0,4.1,A woman wearing a blue shirt and high heels is standing on the sidewalk next to a man,A woman wearing a blue shirt and high heels is standing on the sidewalk next to a dog
+3.2140343,0,1,4.2,A woman wearing a blue shirt and high heels is standing on the sidewalk next to a man,A man and a woman are standing on the curb
+4.719498,1,0,4.3,A young swimmer is sitting in a bathing suit and waiting for the next race,A young swimmer is standing in a bathing suit and waiting for the next race
+4.5796876,1,0,3.3,A black dog and a white dog are wrestling on the bed,A black dog and a white dog are wrestling on the ground
+3.2302868,0,1,4.2,A black dog and a white dog are wrestling on the ground,Two dogs are fighting
+4.275005,0,1,4.4,The dog is having a nap in the park,The dog is having a rest in the park
+4.541893,1,0,4.1,A brown puppy is biting a pole,A brown puppy is biting a stick
+4.4760513,1,0,2.9,A brown puppy is biting a stick,A brown puppy is gnawing a metallic post that is stuck in the ground
+4.518075,1,0,3.8,A brown dog is gnawing a metallic post that is stuck in the ground,A brown puppy is biting a pole
+4.340285,1,0,4.2,A woman is playing with a brown dog in a garden,A woman is playing with a brown dog on a garden path
+4.191705,1,0,3.2,Two men are walking through the grass,Two men are walking through the water
+4.3287363,1,0,4.5,Two men are standing in the ocean,Two men are standing in deep water
+4.1404057,0,1,4.3,A group of children in a building's basement is playing maracas and tambourines,A group of children is playing tambourines
+3.318229,0,1,4.0,A group of children in a church basement is playing guitars and tambourines,A group of children is playing tambourines
+4.604731,1,0,4.1,A brown dog is running in the snow,A black dog is running in the snow
+4.0248046,0,1,4.6,An elderly man is sitting on a bench,An old person is sitting on a bench
+4.668904,1,0,4.3,A yellow dog is running up a sandy path,A yellow dog is running down a sandy path
+3.4294596,2,0,3.1,A dog is standing on one leg and is waiting for a soccer ball,There is no black and white dog jumping for a ball
+4.4388137,1,0,4.0,Two people are seated near a camel and another camel is in the foreground,Two people are seated on a camel and another camel is in the foreground
+3.7680366,2,0,2.7,No people are riding camels at the beach,Two people are seated on a camel and another camel is in the foreground
+4.510106,1,0,4.0,A barefoot man in pajamas is looking toward the sky and is walking on the tennis court,A barefoot man in pajamas is looking toward the sky and is standing on the tennis court
+4.3135324,1,0,3.95,The man is standing in a body of water near a waterfall,The body of a man is in the water near a waterfall
+4.501192,1,0,3.8,A man is standing in the water at the base of a waterfall,The body of a man is in the water near a waterfall
+4.4142365,1,0,3.5,A brown and white dog is catching a dirty tennis ball in a dirt field,A brown and white dog is catching a dirty golf ball in a dirt field
+4.424015,1,0,3.6,A dog is running on the sand and chasing a ball,A dog is running on the grass and chasing a ball
+3.442453,0,2,3.7,A shirtless woman is leading a horse that is pulling a carriage,A shirtless man is leading a horse that is pulling a carriage
+4.6086764,1,0,4.4,A shirtless man is escorting a horse that is pulling a carriage along a paved road,A shirtless man is escorting a horse that is pulling a carriage along a dirty road
+4.1373677,1,0,4.2,A little boy and a woman wearing a yellow shirt are getting splashed by a city fountain,A little girl and a woman wearing a yellow shirt are getting splashed by a city fountain
+4.582516,1,0,4.3,A girl in an orange shirt and clown makeup is walking in a park and others are looking on,A girl in an orange shirt and clown makeup is standing in a park and others are looking on
+4.624669,1,0,3.6,A woman is wearing ear protection and is firing a gun at an outdoor shooting range,A woman is wearing ear protection and is firing a gun at an indoor shooting range
+4.5826845,1,0,3.6,The small dog is walking outside and is carrying a colorful toy in its mouth,The large dog is walking outside and is carrying a colorful toy in its mouth
