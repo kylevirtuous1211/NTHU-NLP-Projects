@@ -1,0 +1,94 @@
+Max token sequence length: 17
+Vocab size: 18
+Character to ID Mapping: {'<pad>': 0, '<eos>': 1, '1': 2, '4': 3, '*': 4, '(': 5, '3': 6, '+': 7, '2': 8, '0': 9, ')': 10, '=': 11, '8': 12, '6': 13, '5': 14, '9': 15, '7': 16, '-': 17}
+Using device: cuda
+Epoch 1 Average Training Loss: 1.4645
+Validation Epoch 1 | Exact Match Accuracy: 0.2120
+Checkpoint for epoch 1 saved to checkpoints/train_20%error/model_epoch_1.pth
+Epoch 2 Average Training Loss: 1.3344
+Validation Epoch 2 | Exact Match Accuracy: 0.5010
+Checkpoint for epoch 2 saved to checkpoints/train_20%error/model_epoch_2.pth
+Epoch 3 Average Training Loss: 1.3072
+Validation Epoch 3 | Exact Match Accuracy: 0.5110
+Checkpoint for epoch 3 saved to checkpoints/train_20%error/model_epoch_3.pth
+Epoch 4 Average Training Loss: 1.2883
+Validation Epoch 4 | Exact Match Accuracy: 0.3500
+Checkpoint for epoch 4 saved to checkpoints/train_20%error/model_epoch_4.pth
+Epoch 5 Average Training Loss: 1.2756
+Validation Epoch 5 | Exact Match Accuracy: 0.5310
+Checkpoint for epoch 5 saved to checkpoints/train_20%error/model_epoch_5.pth
+Epoch 6 Average Training Loss: 1.2700
+Validation Epoch 6 | Exact Match Accuracy: 0.6340
+Checkpoint for epoch 6 saved to checkpoints/train_20%error/model_epoch_6.pth
+Epoch 7 Average Training Loss: 1.2615
+Validation Epoch 7 | Exact Match Accuracy: 0.6610
+Checkpoint for epoch 7 saved to checkpoints/train_20%error/model_epoch_7.pth
+Epoch 8 Average Training Loss: 1.2552
+Validation Epoch 8 | Exact Match Accuracy: 0.6730
+Checkpoint for epoch 8 saved to checkpoints/train_20%error/model_epoch_8.pth
+Epoch 9 Average Training Loss: 1.2501
+Validation Epoch 9 | Exact Match Accuracy: 0.6070
+Checkpoint for epoch 9 saved to checkpoints/train_20%error/model_epoch_9.pth
+Epoch 10 Average Training Loss: 1.2460
+Validation Epoch 10 | Exact Match Accuracy: 0.6470
+Checkpoint for epoch 10 saved to checkpoints/train_20%error/model_epoch_10.pth
+Epoch 11 Average Training Loss: 1.2405
+Validation Epoch 11 | Exact Match Accuracy: 0.7050
+Checkpoint for epoch 11 saved to checkpoints/train_20%error/model_epoch_11.pth
+Epoch 12 Average Training Loss: 1.2361
+Validation Epoch 12 | Exact Match Accuracy: 0.6740
+Checkpoint for epoch 12 saved to checkpoints/train_20%error/model_epoch_12.pth
+Epoch 13 Average Training Loss: 1.2324
+Validation Epoch 13 | Exact Match Accuracy: 0.6880
+Checkpoint for epoch 13 saved to checkpoints/train_20%error/model_epoch_13.pth
+Epoch 14 Average Training Loss: 1.2307
+Validation Epoch 14 | Exact Match Accuracy: 0.7220
+Checkpoint for epoch 14 saved to checkpoints/train_20%error/model_epoch_14.pth
+Epoch 15 Average Training Loss: 1.2276
+Validation Epoch 15 | Exact Match Accuracy: 0.7830
+Checkpoint for epoch 15 saved to checkpoints/train_20%error/model_epoch_15.pth
+Epoch 16 Average Training Loss: 1.2246
+Validation Epoch 16 | Exact Match Accuracy: 0.7200
+Checkpoint for epoch 16 saved to checkpoints/train_20%error/model_epoch_16.pth
+Epoch 17 Average Training Loss: 1.2218
+Validation Epoch 17 | Exact Match Accuracy: 0.8080
+Checkpoint for epoch 17 saved to checkpoints/train_20%error/model_epoch_17.pth
+Epoch 18 Average Training Loss: 1.2190
+Validation Epoch 18 | Exact Match Accuracy: 0.8550
+Checkpoint for epoch 18 saved to checkpoints/train_20%error/model_epoch_18.pth
+Epoch 19 Average Training Loss: 1.2172
+Validation Epoch 19 | Exact Match Accuracy: 0.8410
+Checkpoint for epoch 19 saved to checkpoints/train_20%error/model_epoch_19.pth
+Epoch 20 Average Training Loss: 1.2143
+Validation Epoch 20 | Exact Match Accuracy: 0.8100
+Checkpoint for epoch 20 saved to checkpoints/train_20%error/model_epoch_20.pth
+Epoch 21 Average Training Loss: 1.2138
+Validation Epoch 21 | Exact Match Accuracy: 0.8940
+Checkpoint for epoch 21 saved to checkpoints/train_20%error/model_epoch_21.pth
+Epoch 22 Average Training Loss: 1.2117
+Validation Epoch 22 | Exact Match Accuracy: 0.7910
+Checkpoint for epoch 22 saved to checkpoints/train_20%error/model_epoch_22.pth
+Epoch 23 Average Training Loss: 1.2103
+Validation Epoch 23 | Exact Match Accuracy: 0.8510
+Checkpoint for epoch 23 saved to checkpoints/train_20%error/model_epoch_23.pth
+Epoch 24 Average Training Loss: 1.2098
+Validation Epoch 24 | Exact Match Accuracy: 0.8920
+Checkpoint for epoch 24 saved to checkpoints/train_20%error/model_epoch_24.pth
+Epoch 25 Average Training Loss: 1.2082
+Validation Epoch 25 | Exact Match Accuracy: 0.8660
+Checkpoint for epoch 25 saved to checkpoints/train_20%error/model_epoch_25.pth
+Epoch 26 Average Training Loss: 1.2074
+Validation Epoch 26 | Exact Match Accuracy: 0.8580
+Checkpoint for epoch 26 saved to checkpoints/train_20%error/model_epoch_26.pth
+Epoch 27 Average Training Loss: 1.2069
+Validation Epoch 27 | Exact Match Accuracy: 0.8830
+Checkpoint for epoch 27 saved to checkpoints/train_20%error/model_epoch_27.pth
+Epoch 28 Average Training Loss: 1.2061
+Validation Epoch 28 | Exact Match Accuracy: 0.9030
+Checkpoint for epoch 28 saved to checkpoints/train_20%error/model_epoch_28.pth
+Epoch 29 Average Training Loss: 1.2048
+Validation Epoch 29 | Exact Match Accuracy: 0.8880
+Checkpoint for epoch 29 saved to checkpoints/train_20%error/model_epoch_29.pth
+Epoch 30 Average Training Loss: 1.2044
+Validation Epoch 30 | Exact Match Accuracy: 0.8790
+Checkpoint for epoch 30 saved to checkpoints/train_20%error/model_epoch_30.pth

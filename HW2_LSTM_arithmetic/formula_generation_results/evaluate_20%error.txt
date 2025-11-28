@@ -1,0 +1,43 @@
+unning evaluation on 263250 samples...
+Evaluating: 100%|█| 263250/263250 [13
+
+--- Evaluation Complete ---
+Exact Match Accuracy: 0.9010 (237179/263250)
+
+--- Sample Correct Predictions ---
+  Prompt: 48+43+34=
+  Prediction: 48+43+34=125<eos>
+
+  Prompt: 30-(48+13)=
+  Prediction: 30-(48+13)=-31<eos>
+
+  Prompt: (21*31)+10=
+  Prediction: (21*31)+10=661<eos>
+
+  Prompt: 2-27-10=
+  Prediction: 2-27-10=-35<eos>
+
+  Prompt: (15*20)+24=
+  Prediction: (15*20)+24=324<eos>
+
+
+--- Sample Incorrect Predictions ---
+  Prompt: 43*41*3=
+  Truth: 43*41*3=5289<eos>
+  Prediction: 43*41*3=5207<eos>
+
+  Prompt: (13*6)+34=
+  Truth: (13*6)+34=112<eos>
+  Prediction: (13*6)+34=116<eos>
+
+  Prompt: 49*23*34=
+  Truth: 49*23*34=38318<eos>
+  Prediction: 49*23*34=38018<eos>
+
+  Prompt: (33*49)-33=
+  Truth: (33*49)-33=1584<eos>
+  Prediction: (33*49)-33=1580<eos>
+
+  Prompt: 9+44*3=
+  Truth: 9+44*3=141<eos>
+  Prediction: 9+44*3=143<eos>

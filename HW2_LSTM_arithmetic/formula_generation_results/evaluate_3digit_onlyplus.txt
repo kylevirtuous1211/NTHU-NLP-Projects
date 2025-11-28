@@ -1,0 +1,43 @@
+Running evaluation on 263251 samples...
+Evaluating: 100%|█| 263251/263251 
+
+--- Evaluation Complete ---
+Exact Match Accuracy: 0.0172 (4535/263251)
+
+--- Sample Correct Predictions ---
+  Prompt: 56+36=
+  Prediction: 56+36=92<eos>
+
+  Prompt: 88+14=
+  Prediction: 88+14=102<eos>
+
+  Prompt: 56+26=
+  Prediction: 56+26=82<eos>
+
+  Prompt: 44+48=
+  Prediction: 44+48=92<eos>
+
+  Prompt: 54+14=
+  Prediction: 54+14=68<eos>
+
+
+--- Sample Incorrect Predictions ---
+  Prompt: 49+98=
+  Truth: 49+98=147<eos>
+  Prediction: 49+98=1582<eos>
+
+  Prompt: 18+50=
+  Truth: 18+50=68<eos>
+  Prediction: 18+50=691<eos>
+
+  Prompt: 11+50=
+  Truth: 11+50=61<eos>
+  Prediction: 11+50=621<eos>
+
+  Prompt: 35+36=
+  Truth: 35+36=71<eos>
+  Prediction: 35+36=708<eos>
+
+  Prompt: 62+74=
+  Truth: 62+74=136<eos>
+  Prediction: 62+74=1484<eos>

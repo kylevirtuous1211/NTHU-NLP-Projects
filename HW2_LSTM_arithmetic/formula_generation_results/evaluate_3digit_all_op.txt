@@ -1,0 +1,40 @@
+--- Evaluation Complete ---
+Exact Match Accuracy: 0.2063 (54309/263251)
+
+--- Sample Correct Predictions ---
+  Prompt: 32/84=
+  Prediction: 32/84=0<eos>
+
+  Prompt: 36/81=
+  Prediction: 36/81=0<eos>
+
+  Prompt: 38/79=
+  Prediction: 38/79=0<eos>
+
+  Prompt: 45/76=
+  Prediction: 45/76=0<eos>
+
+  Prompt: 51/94=
+  Prediction: 51/94=0<eos>
+
+
+--- Sample Incorrect Predictions ---
+  Prompt: 26+73=
+  Truth: 26+73=99<eos>
+  Prediction: 26+73=967<eos>
+
+  Prompt: 19*75=
+  Truth: 19*75=1425<eos>
+  Prediction: 19*75=114270<eos>
+
+  Prompt: 68+57=
+  Truth: 68+57=125<eos>
+  Prediction: 68+57=1254<eos>
+
+  Prompt: 97-62=
+  Truth: 97-62=35<eos>
+  Prediction: 97-62=383<eos>
+
+  Prompt: 39*80=
+  Truth: 39*80=3120<eos>
+  Prediction: 39*80=312280<eos>

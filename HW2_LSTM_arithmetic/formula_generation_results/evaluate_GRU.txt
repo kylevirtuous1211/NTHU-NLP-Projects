@@ -1,0 +1,42 @@
+Evaluating: 100%|▉| 263249/263250 [17:14<0Evaluating: 100%|█| 263250/263250 [17:14<00:
+
+--- Evaluation Complete ---
+Exact Match Accuracy: 0.8472 (223020/263250)
+
+--- Sample Correct Predictions ---
+  Prompt: 48+43+34=
+  Prediction: 48+43+34=125<eos>
+
+  Prompt: 30-(48+13)=
+  Prediction: 30-(48+13)=-31<eos>
+
+  Prompt: 2-27-10=
+  Prediction: 2-27-10=-35<eos>
+
+  Prompt: (15*20)+24=
+  Prediction: (15*20)+24=324<eos>
+
+  Prompt: 10*35*26=
+  Prediction: 10*35*26=9100<eos>
+
+
+--- Sample Incorrect Predictions ---
+  Prompt: (21*31)+10=
+  Truth: (21*31)+10=661<eos>
+  Prediction: (21*31)+10=659<eos>
+
+  Prompt: 43*41*3=
+  Truth: 43*41*3=5289<eos>
+  Prediction: 43*41*3=5197<eos>
+
+  Prompt: 49*23*34=
+  Truth: 49*23*34=38318<eos>
+  Prediction: 49*23*34=38002<eos>
+
+  Prompt: 49-(7*16)=
+  Truth: 49-(7*16)=-63<eos>
+  Prediction: 49-(7*16)=-65<eos>
+
+  Prompt: (33*49)-33=
+  Truth: (33*49)-33=1584<eos>
+  Prediction: (33*49)-33=1588<eos>
